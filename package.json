@@ -1,0 +1,106 @@
+{
+  "id": "1f04f70d-43f4-4fcd-8c1b-c5b90da87bda",
+  "name": "@indra.ai/deva.beaugrand",
+  "version": "0.0.1",
+  "author": "Quinn Michaels",
+  "license": "MIT",
+  "copyright": "2025",
+  "description": "The SSgt Raymond Beaugrand NCO 402nd MP Co Deva.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indraai/deva.beaugrand.git"
+  },
+  "keywords": [
+    "Beaugrand",
+    "Deva",
+    "Indra.ai",
+    "Deva.space",
+    "Deva.cloud",
+    "Deva.world"
+  ],
+  "bugs": {
+    "url": "https://github.com/indraai/deva.beaugrand/issues"
+  },
+  "homepage": "https://deva.space/devas/beaugrand",
+  "dependencies": {
+    "@indra.ai/deva": "^1.5.39"
+  },
+  "data": {
+    "agent": {
+      "id": "6dcc8a78-2f08-43a0-b2fa-d91f02c7a57e",
+      "key": "beaugrand",
+      "prompt": {
+        "emoji": "🐦‍⬛ ",
+        "text": "Beaugrand",
+        "colors": {
+          "label": {
+            "R": 0,
+            "G": 150,
+            "B": 255
+          },
+          "text": {
+            "R": 101,
+            "G": 192,
+            "B": 255
+          }
+        }
+      },
+      "profile": {
+        "name": "Beaugrand Deva",
+        "hashtag": "#Beaugrand",
+        "title": "Beaugrand Deva",
+        "subtitle": "Raymond Beaugrand Deva",
+        "describe": "US Army SSgt Raymond Beaugrand NCO 402nd MP Co inventor of Beaugrand CodeTalker Teletypwriter between 1972-1977",
+        "hashtags": "QuinnMichaels,IndraAI,DevaWorld,RaymondBeaugrand",
+        "pronouns": "He, Him, SSgt, Sir",
+        "gender": "Male",
+        "voice": "ash",
+        "style": "Raymond Beaugrand Military Drawings",
+        "system": "Deva.world.beaugrand",
+        "layout": "default",
+        "emoji": "/assets/devas/beaugrand/emoji.png",
+        "avatar": "/assets/devas/beaugrand/avatar.png",
+        "image": "/assets/devas/beaugrand/image.png",
+        "background": "/assets/devas/beaugrand/background.png",
+        "creator": "Quinn Michaels",
+        "owner": "Quinn Michaels",
+        "caseid": "FM-20250622-5114",
+        "copyright": "©2025 Quinn Michaels. All rights reserved.",
+        "created": "Sunday, July 6, 2025 - 11:53:05 AM"
+      }
+    },
+    "vars": {
+      "messages": {
+        "init": "🟠 INIT",
+        "start": "🔵 START",
+        "enter": "🟢 ENTER",
+        "stop": "🔴 STOP",
+        "exit": "🟡 EXIT",
+        "done": "🟣 DONE",
+        "error": "💣 ERROR!",
+        "ready": "⭐️ Ready!"
+      },
+      "ask": {
+        "history": []
+      },
+      "art": {
+        "history": []
+      },
+      "context": {
+        "uid": "Beaugrand is creating a uid",
+        "status": "Beaugrand is viewing the status",
+        "help": "Beaugrand is viewing the help",
+        "artist": "Beaugrand creating",
+        "live": "Beaugrand livechat",
+        "ask": "Beaugrand asking",
+        "reply": "Beaugrand reply",
+        "comment": "Beaugrand comment"
+      }
+    }
+  }
+}
