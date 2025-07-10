@@ -1,0 +1,14 @@
+::BEGIN:MAIN
+# {{profile.name}}
+
+{{profile}}
+
+::begin:hidden
+#color = {{profile.color}}
+#highlight = {{profile.highlight}}
+#shadow = {{profile.shadow}}
+#bgcolor = {{profile.bgcolor}}
+#bg = {{profile.background}}
+copyright: (c)2025 Quinn Michaels
+::end:hidden
+::END:MAIN
