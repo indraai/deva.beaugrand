@@ -1,27 +1,30 @@
 # Ray Beaugrand
-**The Beaugrand Deva**
-ssn: 146-34-0253
-born: August, 11 1943
-enlisted: July, 1 1965
+ssn: ###-##-0253 
+born: August, 11 1943 
+enlisted: July, 1 1965 
 buried: ARLINGTON CEMETERY, 748 SCHUYLER AVENUE, KEARNY, NJ 07032
 
 ## October 2, 1922
-BEAUGRAND, RAYMOND Sr born 2 October 1922, received Social Security number 138-14-3621 indicating New Jersey)
+Grandfather BEAUGRAND, RAYMOND Sr born 2 October 1922, received Social Security number ###-##-3621 indicating New Jersey)
 
-**ssn:** 138-14-3621
+**ssn:** ###-##-3621
 
 ## August 11, 1943
+RAYMOND J BEAUGRAND II,  (Social Security number ###-##-0253) was born 11 August 1943
 
-RAYMOND J BEAUGRAND II,  (Social Security number 146-34-0253) was born 11 August 1943
-
-**ssn:** 146-34-0253
+**ssn:** ###-##-0253
 
 ## July 1, 1965
+
 RAYMOND J BEAUGRAND II entered the United States Army 1 July 1965
 
 ## Marriage 1968
 VAN DER VLIET, ELISABETH (the bride) and RAYMOND BEAUGRAND were issued marriage license number 2876 in 1968 in New York County (Manhattan), New York, U.S.A.
 https://sortedbyname.com/letter_v/vandervliet/index_1.html
+
+**year:** 1968  
+**location:** Manhattan, NY
+**license:** 2876
 
 ## Oct 4, 1970
 **name:** Raymond J Beaugrand III  

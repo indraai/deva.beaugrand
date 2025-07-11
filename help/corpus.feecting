@@ -1,9 +1,282 @@
-# {{agent.name}}
+::BEGIN:MAIN
+# {{profile.name}}
 
 {{profile}}
 
-talk: #algorithm file:public main:header
-talk: #security file:public main:header
-talk: #legal file:public main:header
+const: #SQT = Skills Qualification Test
+const: #ASM = 1977 Army Soldier's Manual
+const: #ATEP = Army Training Evaluation Program consists of a number of exercises which include: Circulation Control, Prisoner of War Operations, MP Station Operations, Convoy Escorts Both Day and Night, Physical Security, Traffic Reconnaissance, Control of Civil Disturbance, Patrol of Area Operations, Performance of Organizational Support Activities, Rear Area Protection Operation and Operating in Electronic Warfare Environments.
+const: #SWAT = Special Weapons and Tactics (SWAT)
+const: #FTX = Field Training Exercise (FTX)
+const: #PT = Physical Training
+const: #EGE = Exercise Gold Eagle an exercise that showed soldier ability to operate in desert terrain.
+const: #WVMS = Wheeled Vehicle Mechanics School
+const: #CFC = Combined Federal Campaign
+const: #CBR = Chemical Biological Radiological (CBR)
+const: #CBRPT = #CBR  Proficiency Test
+
+const: #Presidio = Sixth U.S. Army Headquarters, Presidio of San Francisco
+const: #FtOrd = Fort Ord is a former United States Army post on Monterey Bay on the Pacific Ocean coast in California, which closed in 1994 due to Base Realignment and Closure (BRAC) action.
+const: #HunterLigget = Hunter Liggett Army Combat Training Center
+const: #CampRoberts = Camp Roberts is a California National Guard post in central California, located on both sides of the Salinas River in Monterey and San Luis Obispo counties run by the California Army National Guard.
+const: #HamiltonAFB = Hamilton Air Force Base in California
+const: #FtChaffee = Fort Chaffee, Ark
+const: #FtIrwin = Fort Irwin 
+const: #FtBerry = Fort Barry
+
+::begin:ray:beaugrand:sr
+name: Ray Beaugrand Sr
+role: Grandfather
+born: October 2, 1922
+ssn: ###-##-3621
+::end:ray:beaugrand:sr
+
+::begin:beaugrand:ray:jr
+name: Ray Beaugrand Jr
+alias: Captain Raymond A. Reass of Philadelphia, Pa.
+ssn: ###-##-0253 
+born: August, 11 1943 
+enlisted: US Army July, 1 1965 
+buried: Arlington Cemetary
+married: Elisabeth Van Der Vliet 1968 license 2876 New York
+battalion: 504th Military Police Battalion
+company: 402nd MP Co.
+rank: Staff Seargeant
+first: Be Prepared at Any Time to Deploy Anywhere in the World
+second: Ensure Law Enforcement and Crime Prevention
+third: Participate in Military Funerals, Posthumous Award Ceremonies, Honor Guards, Color Guards, and Salute Batteries.
+fourth: Required to be ready to perform a Civil Disturbance Mission within any area of The Continental United States.
+training: #ATEP, #SWAT, #FTX, #PT
+weapons: M-16, M-60, 12-gauge shotgun, 
+trophies: The Eagle Trophy
+priorities: Personal development through the field of education is high on the list of priorities established by Capt. Beaugrand.
+work: SSgt of 402nd MP Co Team that worked on the 1977 Army Soldier Manual #ASM and Skills Qualification Test #SQT
+::end:beaugrand:ray:jr
+
+
+::begin:1976:atem:training
+date: June 18, 1976
+nco: SSgt. Ray Beaugrand
+battalion: 402nd MP Co.
+duties: Handling field training problems ranging from traffic accidents to larcenies
+1. Sgt. Robert Goo 402nd MP Co. (sitting)
+2. Sgt Roger Pointer 402nd MP Co. (standing right)
+3. SP4 Carol Powell 402nd MP Co. (sitting)
+
+on: the 6th, the 402nd motored to #FtOrd for a week of field training to qualify with the M-16 in day and night fire. The M-60 was also fired for familiarization.
+after: The rifle qualification, the troops motor marched from #FtOrd to #HunterLiggett
+where: They set up a defense position to conduct the Army Training Evaluation Program (ATEP).
+quote: We feel the company training was outstanding and beneficial. Right now, we’re looking forward to the #ATEP field problem from the 8th of July through the 15th, at Camp Roberts.
+::end:1976:atem:training
+
+::begin:1976:fort:ord
+date: July 6, 1976
+from: #Presidio on the 6th 
+to: #FtOrd for week of Field Training. 
+qualify: M-16 in day and night fire. 
+familiar: M-60 was also fired for familiarization.
+::end:1976:fort:ord
+
+::begin:1976:hunter:liggett
+date: July 8, 1976
+activity: Troops motor march
+from: #FtOrd 
+to: #HunterLiggett
+task: Set up a defense position to conduct the #ATEP.
+::end:1976:hunter:liggett
+
+::begin:1976:camp:roberts
+date: July 15, 1976
+problem: #ATEP field problem from the at Camp Roberts
+::end:1976:camp:roberts
+
+::begin:1976:presidio:san:francisco
+date: September 24, 1976
+title: The Eagle returns
+subtitle: 402nd troops trap trophy**
+trophy: The Eagle Trophy
+honor: Presented to the U.S. Army Forces Command military police unit that is judged to most epitomize the spirit of combat readiness
+presentation: The award at Forces Command Headquarters, #FtMcPherson
+
+battalion: 504th Military Police Battalion
+company: 402nd MP Co.
+::end:1976:presidio:san:francisco
+
+::begin:1976:hamilton:afb
+In July, 1976, men of the unit underwent #SWAT training at #HamiltonAFB. Also that month, they were on the range for familiarization firing with the 12-gauge shotgun and qualification firing with the .38 and .45 caliber handguns.
+::end:1976:hamilton:afb
+
+::begin:1976:fort:chaffee
+From late July through mid-October, the company saw duty at #FtChaffee, providing security at the refugee camp established there in support of those who fled Southeast Asia in the wake of the communist takeover.
+::end:1976:fort:chaffee
+
+::begin:1976:tiburon:ca
+Returning to their home at the #Presidio, they spent the remainder of the month participating in FBI #SWAT training again—this time at Tiburon, Ca.
+::end:1976:tiburon:ca
+
+::begin:1977:mini:mighty
+date: February 11, 1977
+title: Mini, but mighty
+team: The Blue Royals
+
+quote: The Blue Royals’ coaches, John Martin and Ray Beaugrand, say it will be the three 13-year-olds’ defensive action that's going to carry them through the upcoming playoffs. “We have the height in Tim Dillon, Mike Wheeler, and Stacey Spain, and the storm in Reyes, Golden and Payne,” said Beaugrand.
+
+coaches: John Martin and Ray Beaugrand
+team: Peter Reyes #25, Mitch Golden #22, and Greg Payne #11, and Tim Dillon #5, Mike Wheeler #93, Stacey Spain #39 all assault, chase, badger their opponents so well they are able to take command of any situation as soon as someone other than their team members have control.
+::end:1977:mini:mighty
+
+
+::begin:1977:fort:irwin
+February saw a 400-mile plus motor march to #FtIrwin where the unit was involved in #EBE
+::end:1977:fort:irwin
+
+::begin:1977:cbr
+date: March 1977 
+test: 402nd Annual #CBR. 
+::end:1977:cbr
+
+::begin:1977:fort:barry
+date: April 1977
+location: #FtBarry
+test: Qualify again with the .38 and .45 caliber handguns.
+::end:1977:fort:barry
+
+::begin:1977:pan:am:building
+title: Accident Pan Am Building
+date: May 16, 1977 
+report: NTSB-AAR-77-9
+accident_date: May 16, 1977
+report_date: October 13, 1977
+title: Aircraft Accident Report - New York Airways, Inc.
+subtitle: Sikorsky S-61L, N619PA Pan Am Building Heliport
+work_unit_no: 2090B
+abstract: About 1735 e.d.t., on May 16, 1977, the right landing gear of a New York Airways, Inc., Sikorsky S-61L; N619PA, failed while the aircraft was parked, with rotors turning, on the rooftop heliport of the Pan Am Building in New York, New York The aircraft rolled over on its right side and was substantially damaged. At the time of the accident four passengers had boarded the aircraft and other passengers were in the process of boarding. The passengers and the three crew members onboard received either minor or no injuries. However, four passengers who were still outside the aircraft and were waiting to board were killed and one was seriously injured. One pedestrian on the corner of Medison Avenue and 43rd Street was killed and another was seriously injured when they were struck by a separated portion of one of the main rotor blades of the aircraft.
+::end:1977:pan:am:building
+
+
+// The imposter switched after the accident.
+
+::begin:sqt:test
+date: May 20, 1977 
+publication: Star Presidian San Francisco
+
+event: May 20, 1977 SQT - New Army Soldier Manual and Skills Qualification Test Announced in the Star Presidian
+anomaly: May 20, 1977 Eve S. Dropper says "What a bear of a week this one’s been!!! Somehow or another I’ve gotten my wires crossed with just about everyone this week... can’t seem to get things straight! Some weeks it just doesn’t pay to even get out of bed ..." and ends the article with "And last but never least, my final helpful hint. A brisk ‘rub’ with a mixture of cold water and vinegar will remove coffee stains from a sheep. Keep watching this space for more helpful hints!!! Think you can stand anymore???
+::end:sqt:test
+
+
+date: June 1977
+location: #FtOrd
+test: Fire the M-16 rifle and M-60 machine gun. 
+
+date: June 1977 #HunterLiggett to conduct #FTX
+return: #Presidio they found #PT testing waiting
+::end:1977:hunter:liggett
+
+note: During the period of time the 402nd was at Fort Chaffee, they also remembered their responsibilities at home by contributing approximately $14,000 to the #CFC last year.
+
+
+date: October 29, 1977
+host: General Edward M. Flanagan, Jr.
+visitor: Prince Charles Visits PSF
+requested: British Consul General
+caption: ROYAL VISITOR ... H.R.H. Prince Charles, The Prince of Wales, and LTG Edward M. Flanagan, Jr., Commanding General, Sixth US Army, depart Sixth Army Headquarters during Prince Charles’ visit to the Presidio of San Francisco on October 29, 1977.
+
+article: H.R.H. Prince Charles, The Prince of Wales, visited , on Saturday, October 29. Lieuten¬ ant General Edward M. Flanagan, Jr., Sixth Army’s Commanding General, presented Prince Charles with an overview of the U.S. Army today and Sixth Army’s role in the Total Army.
+
+anomaly: His only visit to an Army installation during his tour of the United States.
+leaving: Prince Charles stopped to speak with a number of spectators gathered to greet.
+departed: Helicopter to continue his California visit.
+
+date: June 9, 1978 
+article: TROOP TALK**
+group:** 402nd MP Co 
+article: The 402nd MP Co. continues to stay on top in its softball efforts. The team is unbeaten so far this season. Recently, Sgt. Al Smith led his team to a whopping 13-3 victory over D. Co., 864th Engrs. The team has a 4-0 record. Pvt. Mark Simmons recently graduated from #WVMC at #FtOrd. Sgt. Phillip Scales and SSgt. Raymond Beaugrand both qualified at Leadership Management School, also at #FtOrd. 
+
+after: June 9 1978 - Leadership Management School #FtOrd
+
+date: October 13, 1978 
+article: Football Results**
+company: 163rd MP Co  
+
+score: FBI 26 - 163rd MP Co. 18 
+note: Coach Beaugrand, coming out of retirement, found Murphy in the end zone for another six points. Too little too late as the FBI wins another one. 
+
+
+date: December 3, 1978 
+person: SSgt. Ray Beaugrand (163rd MP Co.)  
+place: 1st Northern California Police Association Flag Football Tournament.  
+against: SFPD, FBI San Francisco
+team: Nightsticks
+note: Beaugrand unleashed his Berserk Rhinos of Defense. 
+anomaly: The correct Beaugrand was Blue Royals NOT Berserk Rhinos
+
+date: February 23, 1979 
+status: SSgt Beaugrand relocated to Germany
+note: SSgt. Raymond Beaugrand assignment takes him to Germany after served as a stringer/reporter for the Star Presidian during his tour here. 
+location: The Public Affairs Office
+
+date: October 17, 1985
+title: Beaugrand Properties, Inc.
+name: RAYMOND L. BEAUGRAND  
+address: 200 PARK AVE, NEW YORK, NY, UNITED STATES, 10166  
+entity: BEAUGRAND PROPERTIES, INC.  
+type: DOMESTIC BUSINESS CORPORATION  
+filing: 10/17/1985  
+county: NEW YORK  
+jurisdiction: NEW YORK, UNITED STATES  
+dos_id: 1033003  
+status: INACTIVE  
+reason: DISSOLVED BY PROCLAMATION  
+inactive: 03/24/1993  
+
+## March 31, 1987
+RAYMOND J BEAUGRAND released from Army 31 March 1987
+
+## June 1, 1997
+BEAUGRAND, RAYMOND Sr born 2 October 1922 138-14-3621 died 1 June 1997
+
+**birth:** Oct 2, 1922
+**death:** Jun 1, 1997
+**burial:** Arlington Memorial Park
+**location:** Kearny, Hudson County, New Jersey, USA
+**plot:** Sylvan Lawn, Plot 2018, Grave 9
+**memorial:** 206832651
+
+## June 6, 1998
+
+Domain Information beaugrand.com 
+
+**Name:** BEAUGRAND.COM  
+**Registry Domain ID:** 1382957_DOMAIN_COM-VRSN  
+**Registered On:** 1998-06-06T04:00:00Z  
+**Expires On:** 2026-06-05T04:00:00Z  
+**Updated On:** 2025-04-16T14:38:19Z  
+**Name Servers:** NS73.WORLDNIC.COM, NS74.WORLDNIC.COM
+
+**Name:** Beaugrand Properties, Inc.  
+**Organization:** Beaugrand Properties, Inc.  
+**Phone:** (212) 685-5550  
+**Fax:** (212) 545-1502  
+**Email:** ray@beaugrand.com  
+**Mailing Address:** 100 PARK AVE RM 1600, NEW YORK, NY, 10017-5538
+
+## January 3, 2020
+
+![Raymond Beaugrand Gravesite](assets/img/2020-01-03-Gravesite.jpg)
+[Raymond Beaugrand Gravesite](https://www.findagrave.com/memorial/206832610/raymond-joseph-beaugrand)
+
+**birth:** Aug 11, 1943
+**death:** Jan 3, 2020
+**burial:** Arlington Memorial Park
+**location:** Kearny, Hudson County, New Jersey, USA
+**plot:** Sylvan Lawn, 2018, Grave 12  
+**memorial:** 206832610
+
+BEAUGRAND, RAYMOND J (Social Security number 146-34-0253) was born 11 August 1943, entered the United States Army 1 July 1965, was released 31 March 1987, and he died 3 January 2020.
+
+Beaugrand, Raymond, who was SSG in the US ARMY during the Viet Nam War, was born 11 August 1943, died 3 January 2020, and was buried in ARLINGTON CEMETERY, 748 SCHUYLER AVENUE, KEARNY, NJ 07032
+
 
 copyright: ©2025 Quinn Michaels
+::END:MAIN

@@ -33,20 +33,20 @@
   "data": {
     "agent": {
       "id": "6dcc8a78-2f08-43a0-b2fa-d91f02c7a57e",
-      "key": "beaugrand",
+      "key": "ray",
       "prompt": {
-        "emoji": "🐦‍⬛ ",
-        "text": "Beaugrand",
+        "emoji": "🦁",
+        "text": "Ray",
         "colors": {
           "label": {
-            "R": 0,
-            "G": 150,
-            "B": 255
+            "R": 139,
+            "G": 164,
+            "B": 118
           },
           "text": {
-            "R": 101,
-            "G": 192,
-            "B": 255
+            "R": 215,
+            "G": 188,
+            "B": 159
           }
         }
       },
@@ -59,6 +59,11 @@
         "hashtags": "QuinnMichaels,IndraAI,DevaWorld,RayBeaugrand",
         "pronouns": "He, Him, SSgt, Sir",
         "gender": "Male",
+        "birth": "August 11, 1943",
+        "enlisted": "July 1, 1965",
+        "death": "May 16, 1977 Helicopter Accident atop Pan Am Building in New York NTSB Report NTSB-AAR-77 -9",
+        "wife": "Elisabeth Beaugrand",
+        "married": "1968 Manhattan, NY Marriage License 2876",
         "voice": "ash",
         "style": "Raymond Beaugrand Military Drawings",
         "system": "Deva.world.beaugrand",
@@ -96,12 +101,12 @@
         "history": []
       },
       "context": {
-        "uid": "Beaugrand is creating a uid",
-        "status": "Beaugrand is viewing the status",
-        "help": "Beaugrand is viewing the help",
-        "artist": "Beaugrand creating",
+        "uid": "Beaugrand creating id",
+        "status": "Beaugrand getting status",
+        "help": "Beaugrand getting help",
+        "artist": "Beaugrand creating art",
         "live": "Beaugrand livechat",
-        "ask": "Beaugrand asking",
+        "ask": "Beaugrand ask",
         "reply": "Beaugrand reply",
         "comment": "Beaugrand comment"
       }
