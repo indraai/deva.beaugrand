@@ -13,3 +13,7 @@ copyright: (c)2025 Quinn Michaels
 #bg = {{profile.background}}
 ::end:hidden
 ::END:MAIN
+
+::BEGIN:TEST
+# TEST BOX
+::END:TEST
