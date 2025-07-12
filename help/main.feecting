@@ -1,10 +1,20 @@
 ::BEGIN:MAIN
+::begin:center
+img: /devas/ray/avatar.png
+::end:center
 # {{profile.name}}
+l: **{{profile.title}}**
 
-{{profile}}
+## Entity Profile
+p: View the entity profile for {{profile.name}}. This is where you find the name, description, and verious details associated with operating the entity. 
 
+button[Entity Profile]:#ray help main:profile
 
-copyright: (c)2025 Quinn Michaels
+## Skills Qualification Test
+p: The #SQT Skills Qualification Test
+
+button[SQT]:#ray help sqt/main
+
 ::begin:hidden
 #color = {{profile.color}}
 #highlight = {{profile.highlight}}
@@ -12,8 +22,21 @@ copyright: (c)2025 Quinn Michaels
 #bgcolor = {{profile.bgcolor}}
 #bg = {{profile.background}}
 ::end:hidden
+copyright: (c)2025 Quinn Michaels
 ::END:MAIN
 
-::BEGIN:TEST
-# TEST BOX
-::END:TEST
+::BEGIN:PROFILE
+# {{profile.name}}
+button[Main]:#ray help
+
+{{profile}}
+
+::begin:hidden
+#color = {{profile.color}}
+#highlight = {{profile.highlight}}
+#shadow = {{profile.shadow}}
+#bgcolor = {{profile.bgcolor}}
+#bg = {{profile.background}}
+::end:hidden
+copyright: (c)2025 Quinn Michaels
+::END:PROFILE
