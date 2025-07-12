@@ -28,15 +28,15 @@
   },
   "homepage": "https://deva.space/devas/beaugrand",
   "dependencies": {
-    "@indra.ai/deva": "^1.5.40"
+    "@indra.ai/deva": "^1.5.41"
   },
   "data": {
     "agent": {
       "id": "6dcc8a78-2f08-43a0-b2fa-d91f02c7a57e",
-      "key": "ray",
+      "key": "beaugrand",
       "prompt": {
         "emoji": "🦁",
-        "text": "Ray",
+        "text": "Beaugrand",
         "colors": {
           "label": {
             "R": 139,
