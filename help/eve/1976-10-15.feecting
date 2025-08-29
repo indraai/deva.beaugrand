@@ -1,0 +1,51 @@
+::BEGIN:MAIN
+::begin:buttons
+button[Main]: #ray help
+button[Eve]: #ray help eve/main
+::end:buttons
+
+talk: #ray help eve/main:header
+
+page: 4
+paper: STAR PRESIDIAN
+date: Friday - October 15, 1976
+link: https://archive.org/details/StarPresidianVolume19/page/n179/mode/2up
+
+p: **Hey, any of you peoples miss the column last week???** No, huh? Well, the truth’s finally out!!! I do know some of the guys at the 16th BPO missed my weekly call ... and I do appreciate the concern. Flowers always cheer me up ... especially when I feel as low as I did. Hospitals are no picnic ...
+
+p: **So here I am.** Back to stomping the old keyboard ... sounds like I’m playing the piano, doesn’t it?
+
+p: **The 227th Medical Detachment is out in the field ...** FTX - field training exercise. Seems they’ll be digging foxholes and doing all that other neat stuff that goes along with ‘camping-out’... I like my way better!!!
+
+p: **While the 227th is out in the field,** SP5 John McCauley will stay behind... He’s convalescing... when’s the cast come off, John???
+
+p: **While I was gone, my faithful friend and companion, SP4 Carol Cronin left.** She’s on her way to Germany... the long way. Called my folks last night, and Carol will soon be where I’d love to be ... at my mama’s house!!! But, we do miss her already!!! Enjoy... this may be the only round-trip ticket you’ll ever get!!!
+
+p: **And SFC A.C. Reyes is leaving me, too!!!** Going on leave, then a PCS to Germany! Only I don’t think he and Carol have gotten assigned to the same place ... too bad. But I do wish you weren’t all leaving at the same time! See, as soon as you get used to working with someone, they PCS, ETS, or TDY ...
+
+p: **Some new people have joined the 864th Engineers.** Pvt. Evison Beck came from AIT at Ft. Leonard Wood. And along with Evison, Pvt. David Babaineaux came too. Pvt. Babaineaux ... sounds like a Louisiana name ...
+
+p: **SP John Zott sprained his ankle** playing touch football... even lost the game. If you’re gonna get hurt, the least you can do is win in the process ...
+
+p: **And Lt. John Chaufty,** of the 864th, is no longer a Lt. He’s been promoted to Captain ... Congrats, Captain Chaufty ...
+
+p: **All E-5s and above of the 864th are at Camp Parks** ... combat training. So, they’ll be out for a week ...
+
+p: **The 504th HHD beat LAMCII in football!!!** Good going, guys!!! And Lt. Lester Hazen is a new platoon leader at the 170th. Lt. Thomas Africa is also a new platoon leader, but he was sent to the 402nd. And the 402nd also has a new 1st Sgt., David Heath ... Welcome to the Presidio, gentlemen ...
+
+p: **The motor pool got two new guys ...** Pvt. John Blackwell and Pvt. Earl McGrath both came here from Ft. Dix ... we’ve even got some new sedans, guys ... so enjoy!!!
+
+p: **A member of the 16th BPO** was wounded in action’ Wednesday a.m. Seems Sgt. James Woods was moving a safe and hurt his leg... only a scratch .. . hope it feels better soon!!! PFC Ricky Weaver was promoted to SP4 ... congrats, Ricky!!! Last Friday, the higher echelon took a trip to Ft. Ord to review the postal procedures ... went down on a helicopter ... must’ve been a really nice trip ... They hope they’ll be able to straighten out some of our postal problems, now ... YEA!!!
+
+p: **Another week... this one was nice and short!** Kind of makes things a bit hectic, but it’s nice, too! Keep a stiff upper lip, smile, and be sure to take ’n take ’n keep on whatevering ... I will.
+
+talk: #ray help main:footer
+
+::begin:hidden
+#color = {{profile.color}}
+#highlight = {{profile.highlight}}
+#shadow = {{profile.shadow}}
+#bgcolor = {{profile.bgcolor}}
+#bg = {{profile.background}}
+::end:hidden
+::END:MAIN

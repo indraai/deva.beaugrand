@@ -1,0 +1,53 @@
+::BEGIN:MAIN
+::begin:buttons
+button[Main]: #ray help
+button[Eve]: #ray help eve/main
+::end:buttons
+
+talk: #ray help eve/main:header
+
+page: 3
+paper: STAR PRESIDIAN
+date: Friday - May 14, 1976
+link: https://archive.org/details/StarPresidianVolume19/page/n81/mode/2up
+
+p: A very short time ago, last week, actually, a ‘short’ editor and a rookie reporter created a strange new being, Eve S. Dropper. Now, in keeping with a soon-to-be tradition, Ms. Dropper is waiting with open ears behind every corner and crevice of the post. The only way to combat Ms. Dropper is to volunteer the information, anonymously, or otherwise, about any and all complaints, happenings, and things to be thankful for.
+
+p: A 72E20 MOS is a Communication Center Specialist. If there are any of you out there who would like to trade your assignment at the Presidio of San Francisco, Oakland Army Base, or Sac¬ ramento Army Depot for an assignment at Ft. Louis, Wash., please contact Sp/4 Claire Ce. Ken¬ ner at 5551-6-2707, 176th Signal Co (OP), Ft. Lewis, WA 98433.
+
+p: If you’re missing former Master Sergeant Billy G. Gipson’s face in the Headquarter’s Company Garrison orderly room you don’t have to go far to find him. He’s working just down the street in Fi¬ nance as the Finance Operations Chief.
+
+p: Several employees of the Logistics Division 4 were awarded letters, signed by BG Woodard, CDR, LAMC, for outstanding accumulation of sick leave. Honored were: Mr. W. Williams Jr., with an accumulated 2,000 hours sick leave; Mr. T. Dick¬ son, with 1,300 hours sick leave; Mr. J. Scott, with 2,000 hours sick leave; and Mr. D. Freitas, for 1,200 hours accumulated. Mrs. G. Bartlett was presented with a 10-year pen at the same time.
+
+p: DART! to the Presidio Post Office. After spending several visits waiting in a line, I finally found out why. One of their employees leaves at 4:00, so he/she closes the window to start turning in money and other accountables. The post office thinks one window is enough. What do you think?
+
+p: A new Bicentennial twist. A Savings Bond promotion! May has been designated as Savings Bond promotion month. If your thinking about buy¬ ing bonds, do it now!
+
+p: Parents! Please teach your children the proper use of matches, and not to play with them. There were several grass fires here during 1975, as well as a serious fire in quarters this year caused by misuse of matches.
+
+p: High blood pressure can sneak up on you. You can have it without knowing it. It can lead to strokes, kidney failure, heart attacks - even death if not treated. If you don’t know your blood pressure, you can get a free test by dropping by the Post Exchange, Saturday, May 15 and May 22. Those few minutes could mean a lot to your health.
+
+p: The time to make a note of Emergency numbers is before an emergency occurs, the LAMC Emergency Telephone Number has been changed from 3190 to 3166. Alternate numbers are 4181 and 4177. Other numbers that should be kept within easy reach of the phone are: Fire—117, Military Police—110, and Facilities Engineer Emergencies—2104.
+
+## Emergency Numbers
+117: Fire
+110: Military Police
+2104: Facilities Engineer Emergencies
+3166: LAMC Emergency Telephone Number
+4181: LAMC Emergency Telephone Number
+4177: LAMC Emergency Telephone Number
+
+::begin:center
+img:/devas/ray/img/eve/1976-05-14.png
+::end:center
+
+talk: #ray help main:footer
+
+::begin:hidden
+#color = {{profile.color}}
+#highlight = {{profile.highlight}}
+#shadow = {{profile.shadow}}
+#bgcolor = {{profile.bgcolor}}
+#bg = {{profile.background}}
+::end:hidden
+::END:MAIN

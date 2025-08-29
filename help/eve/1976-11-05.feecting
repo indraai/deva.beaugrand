@@ -1,0 +1,49 @@
+::BEGIN:MAIN
+::begin:buttons
+button[Main]: #ray help
+button[Eve]: #ray help eve/main
+::end:buttons
+
+talk: #ray help eve/main:header
+
+page: 3
+paper: STAR PRESIDIAN
+date: Friday - November 5, 1976
+link: https://archive.org/details/StarPresidianVolume19/page/1978/mode/2up
+
+p: Time passes so fast when you're having a good time ... or busy as the dickens. Sometimes it seems there aren’t enough hours in a day ... or enough days in a weekend.
+
+p: Well, there have been two happenings close to home. Lt. Marty Yawn recently married Jon Cavaiani ... so if you’re looking for her, she’s at this new name . . . Lt. Marty Cavaiani.. . And, here and there you may have seen the name Rebecca Sherwood on some of our articles... NO MORE. She did it too. Went and got married ... on Halloween, I hear. So, she’s Rebecca Hall now. Married Bob Hall, from the 227th Med. De¬ tachment ... Let me be one of the many who wish Bob and Jon the best of luck . . . they’ll need it!!!
+
+p: White-hat duty has changed over from the 170th to the 402nd MP Bn. It’s nice to keep rotating the guys in their jobs ... don’t get too bored, that way. SSgt. Edward Carr is now a SFC, he’s also the First shirt of the 504th HHD. And Sgt. Garry Goings, from the 402d is now a SSgt. There were also some awards given out. Lt. Patrick Hall received the Joint Service Commandation Medal; SFC James York received an ARCOM from his prior unit and SP4 Eric Steel and Sgt. John Reyes both received Presidio Certificates of Achievement for their participation in the CID operation in reference to the warehouse thefts. Nice work, guys.
+
+p: Some people from the 170th also sent over a question. Why do you use the girl peeking over the wall with a periscope at her puppy? Now, I ask you, ain’t she cute!!! And I ask you, why not??? You guys got some¬ thing against dogs??? Now, really, eavesdroppers can’t be right up front with things, so they kinda sneak peeks. Understand?
+
+p: Everybody at the 864th is ARTEP training good luck, peoples. I am glad it's you and not me ... Pvt. Philip Schnorr just got here from AIT, Ft. Leonard Wood ... SP4 Robert Bucol is leaving again ... this time to Turkey. Just in time for Thanksgiving ... BAD, I know.
+
+p: I hear Pvt. Jeffery Graupner of the 864th is terribly happy now. He ETSed.
+
+p: SSgt. Thomas Henkel is off to Germany. The mass exodus continues ...
+
+p: Pvt. Kenneth Durkin, Pvt. Dennis Hamilton and Pvt. Norman Beach all joined the 864th from AIT at Ft. Leonard Wood, Too. Must be nice to get stationed with some of the people you went to school with. At least you know somebody when you arrive ... don’t have to talk to walls, or anything like that.
+
+p: I got a call today. Seems SP Horton from Western Region Recruiting was approached by a person from the San Francisco Municipal Flag Football League about arranging to have their team play a scrimmage against a Presidio team on some Saturday in the future ... anybody interested??? Now, I know our guys can whop those city guys in a New York second. Right??? So, if you think so too, prove it. Horton is waiting for calls at 7363/7364.
+
+p: The Band has been busy as little birds ... dedicating a birdbath! The sister city of San Francisco, Assisi, Italy, gave SF the birdbath, which was placed in Washington Square, in North Beach. I hear the band played a couple of numbers, including the Italian Na¬ tional Anthem. I didn’t know French Horns could play in Italian!!! The Band will be in a Veterans Day parade this Sunday. Busy as birds, like I said.
+
+p: YEH!!! The 16th BPO will have their TV for this weekends games. Fantastic. It really makes me feel good when something good happens to my peoples... And they’re opening a dayroom with bumper pool and shuffle board. Those guys aren’t going to know how to act!!! Talk about getting up in the world, huh?
+
+p: And SP5 Donald Wilheit and his family are PCSing to Germany. I hear that’s where they’re from. Well, I heard they were both German, so maybe it’ll be a going home for them. Sounds nice... I hope ya’II enjoy.
+
+p: I hope all of ya’II are reading the Presidio Com¬ munity News ... they’ve got a lot of interesting items in it. Some of it may even apply to you. The days are getting shorter (yes, I know it’s because the time was changed, but it DOES get darker sooner!!!) and the weather’s getting a little cooler. Take advantage of the nice days. . . who knows when the fog will return! Take ’n take ’n keep on whatevering. I will.
+
+talk: #ray help main:footer
+
+::begin:hidden
+#color = {{profile.color}}
+#highlight = {{profile.highlight}}
+#shadow = {{profile.shadow}}
+#bgcolor = {{profile.bgcolor}}
+#bg = {{profile.background}}
+::end:hidden
+::END:MAIN

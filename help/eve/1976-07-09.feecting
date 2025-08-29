@@ -1,0 +1,75 @@
+::BEGIN:MAIN
+::begin:buttons
+button[Main]: #ray help
+button[Eve]: #ray help eve/main
+::end:buttons
+
+talk: #ray help eve/main:header
+
+page: 2
+paper: STAR PRESIDIAN
+date: Friday - July 9, 1976
+link: https://archive.org/details/StarPresidianVolume19/page/n119/mode/2up
+
+p: **Can you believe we’re starting on our 201st year?** Truthfully, I’m glad the fourth is over. But, it was nice. Hope you enjoyed.
+
+p: **Anybody out there interested in furry critters?** Well there’s a freecollie/shepherdfivemonthsold, with current shots and a gray and white cat, five months old with shots. If you’re interested, call 5252 after 6p.m. I can’tsaymuchaboutthecat.butlhadacollie/shepherd combination and it’s really nice. Good dogs.
+
+p: **If you’re still singing in the rain ...** or the shower, the Presidio Music Center is offering a fiveweek voice class beginning July 12. The class will meet each Monday from 7:30 to 9:30p.m. No previous training is necessary and the total fee is only $5.00. So, if you’re tired of your voice having wet, gurgling sound, call 5897/3992 for registration.
+
+p: **There’s gonna be a couple** of dances at the Rec Center this weekend. Tonight at 9, “Etta and the Alteration” will be the entertainment. Saturday, at 9p.m. you can dance to “Southern Comfort.” So, get your high-heeled sneakers on.
+
+p: **Carousel Cards are here!** The Rec Center ITT Office has received these discount cards for the Great America amusement park. For more info call 5480 between 1 and 5p.m.
+
+p: **Get your hammer,** nails and jigsaws, ‘cause there’s a beginners woodworking class being offered by the Post Crafts Shop. Every Friday, for four weeks, starting July 16, the class will meet from 6:30 to 9:30p.m. Sign-up is required, so get down to the Crafts Shop, or call 4497.
+
+p: **The GED Automotive** Repair Class has taken the summer off, so the Automotive Repair Shop will be open on Tuesday evenings from 6 to 10p.m.
+
+p: **The 402nd is out** in the field practicing for their ARTEP. Of course, the soldiers should be in good shape after all that parade practice ...
+
+p: **Chaplain Lee Burris will** retire the end of this month. He’s leaving the 504th’s hospitality for civvies.
+
+p: **Surprise!** I hear Captain John Spearman is leaving the 504th to take over duties at 6th Army Aviation Detachment on the 12th. Sorry to hear that.
+
+p: **Aggression is only part** of the war games the 170th is helping the 402nd with. They’re also aggressive bowlers. I heard they won all three league games and got the extra point for high scores. Well, bowl me down ...
+
+p: **And Private James** Miller left AIT at Ft. McClellan, (Oh, how I remember Ft. Mac,) for his assignment with the 170th. The heat, the mosquitoes, and the used-car lot of Anniston are all behind you now. Ain’t ya glad?
+
+p: **A new exec**, officer for the 16th BPO is here. Lieutenant Monte Mingus is the new XO, and the troops seem pleased. Welcome to the Presidio.
+
+p: Leaving the 16th BPO is SP4 Henry Ellis, who went and got himself reclassified from a postal worker to a mortician’s helper. On purpose?
+
+p: And home town canvassing has accepted SP/4 Michele Haney from the 16th BPO. Hear she doesn’t know exactly where she’ll be canvassing, but I hope she enjoys.
+
+p: As these two move out, SP/4 Linda Yonan has made her arrival from Hawaii and SP/5 Bill Corzatt is here from Korea. Hope all you guys can get together for your pre-IG inspections. Got to get all the ‘bugs’ out for ther REAL ONE ...
+
+p: **A subbie driver/rider** is wanted during July and August for an established car pool, from San Rafael (Canal area) to PSF. Contact Julie Bennison, Ext 2760, or Fran Rhodes, Ext 3952. Three is better!
+
+p: **Clickety-click, tippy toe—tap** and/or jazz classes will be offered on Saturday mornings if 10 people register for each class. Fee will be $10 per class and the class will begin late July or early August. If you can fill tap shoes, call 5897/3992.
+
+p: **The band has cancelled** its concert dates for July, so sayeth the 6th Army. Next show will be August 18.
+
+p: **Last** weekend some units from the 504th MP Battalion were involved in the Bicentennial activities. The 402nd was doing the honor guard but and the salute battery. Guess you guys got a great view of the parade.
+
+p: **The 864th has gotten in a new shipload** of people. Pvt. Pha Abernathy came from AIT at Ft. Jackson; SP5 Louis Metz, from Germany; SP5 Donald Tilley, from Korea; and Pvt. Donald Porter, Pvt. Terry Miller, and Pvt. Alex Hileman, all from AIT at Ft. Leonard Wood.
+
+p: **Of course, when one ship comes in,** another goes out. This time it took SSgt. Clifford Siemon to Ft. Bliss, Tex.; SSgt. Floyd Drake to Camp Parks; SP5 Miguel Macaspac to Germany; and SP4 Casimir Sieradyki and PFC Wilbert Moore to civilian life.
+
+p: **Keep your friends smiling.** Love you lovers and take ’n take and keep on whatever. I will.
+
+---
+
+::begin:center
+img: /devas/ray/img/eve/1976-07-09.png
+::end:center
+
+talk: #ray help main:footer
+
+::begin:hidden
+#color = {{profile.color}}
+#highlight = {{profile.highlight}}
+#shadow = {{profile.shadow}}
+#bgcolor = {{profile.bgcolor}}
+#bg = {{profile.background}}
+::end:hidden
+::END:MAIN

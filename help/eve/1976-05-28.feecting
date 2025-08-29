@@ -1,0 +1,65 @@
+::BEGIN:MAIN
+::begin:buttons
+button[Main]: #ray help
+button[Eve]: #ray help eve/main
+::end:buttons
+
+talk: #ray help eve/main:header
+
+page: 2
+paper: STAR PRESIDIAN
+date: Friday - May 28, 1976
+link: https://archive.org/details/StarPresidianVolume19/page/n89/mode/2up
+
+p: Another week of mad rambling around the Pres¬ idio. It always gets to me.
+
+p: Kolchak, the night stalker, take note: the STAR PRESIDIAN is sponsoring an action photo contest to commence immediately and run until people stop submitting things, (real good time to stop, what?) The rules are simple—if you see something which you think is newsworthy, take a picture of it while it is happening. Then send us the undeveloped negative, a 5” by 7” print or the developed neg, whichever is quickest. The best of all these strange shots will be featured each week in the SP. Oh, yeah, be sure to include the f-stop and ASA numbers. What you see is, click, what you get.
+
+
+p: Captain Arthur W. Lamb joined the 504th MP’s Tuesday as the new battalion S-2 Ml officer. Capt. Lamb came here from Ft. Huachuca’s Ml Advanced Course. I won’t say anything but ‘hi’ to the Cap'n. I’d hate to feel sheepish later ....
+
+p: The 170th MP’s got an outstanding rating Tuesday when they had their Battalion Commanders Inspection. Good work, guys. It does make me wonder though if the Commanders ever get really burned out on inspections.
+
+p: SP4 Lonnie D. Palm has departed company with the 16th BPO. And the Army ... 'Bye, Lonnie.
+
+p: As SP4 Palm left the Army, SP4 Melvin G. Knox got a permanent change of station to Alaska. Keep cool ....
+
+p: Got a call from a fine Marin County lady, (who reads our paper) Mary Jane Stetson. She says there should be an addition to last week’s “CB—Talking to thin air” story. It seems we failed to mention some facts—that channel 9 is reserved for emergency calling; channel 11 is the national legal call channel and 17 is the truckers’ channel.
+
+9: Emergency Calling
+11: National Legal Call Channel
+17: Truckers' Channel 
+
+p: Also, a Mr. Landry of the FCC is willing to conduct group talks on CB clubs to be sure the people are informed of the rules and regulations of the FCC. He doesn’t care what type group he talks to—renegades, police, scouts—he just wants the rules to be known. You can find him at the local FCC digs.
+
+p: If you’ve applied for a CB license, and it hasn’t filtered thru the mail yet, there is a temporary license call number you can use. Use K-ED (your initials)—0101, (the last four numbers of your social security number) and you can start using your CB now instead of sitting around with your mike in your pocket.
+
+warning: Be sure you install your antenna carefully. There have been some electrocutions due to carelessness. Stay away from high voltage, Charlie.
+
+note: A final note to CB mamas and papas—in Dec. ’75, there was an FCC rule change. The caller must identify himself through his call number and handle, but he doesn’t have to call number his ‘callee.’ Till then, 10-4, Rubber Turkey.
+
+p: Garrison is welcoming a new officer, Lieutenant Sundra Boyd. Lt. Boyd will be DIO Assistant Facilities Officer in plans and operations. She arrived here May 12, with a southern accent like mine, and will make the number of female officers in Garrison a grand total of three. Welcome to the Presidio, ma’am.
+
+p: The coming Memorial Day weekend will be a time for family outings, picnics, and enjoying life. Don’t let carelessness make it a tragic weekend for your family.
+
+p: If you like, love or generally admire kids and dogs, the Rec Center is looking for some volunteers to help judge, register and assist in a Kid’s Dog Show, to be held June 26.
+
+p: Back with the CB’ers. Anyone interested in starting a CB Radio Club on the Presidio, contact SP5 Cunha at 668-2667 evenings, or CHI 2 KS6-0551 (Racoon).
+
+p: This week was kinda slow for the CPO, 227th Medical Detachment, LAMC and the Education Office. Hope to hear more from you guys next week. 
+
+note: Whatever you do, keep on talkin’, or I’ll be walkin’. Let’s try to get some legit gripes from the troops, huh? How else you gonna’ get any solutions? Let me hear from ya ....
+
+talk: #ray help main:footer
+
+::begin:hidden
+#color = {{profile.color}}
+#highlight = {{profile.highlight}}
+#shadow = {{profile.shadow}}
+#bgcolor = {{profile.bgcolor}}
+#bg = {{profile.background}}
+::end:hidden
+::END:MAIN
+
+
+

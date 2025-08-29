@@ -1,0 +1,47 @@
+::BEGIN:MAIN
+::begin:buttons
+button[Main]: #ray help
+button[Eve]: #ray help eve/main
+::end:buttons
+
+talk: #ray help eve/main:header
+
+page: 3
+paper: STAR PRESIDIAN
+date: Friday - June 11 , 1976
+link: https://archive.org/details/StarPresidianVolume19/page/n97/mode/2up
+
+p: Hidy Hi, and Hello. It’s been another roaming week on the Presidio and I’ve been hearing all kinds of juicy gossip. Too bad it can’t be published ...
+
+p: Hey, guys, my nasty, grumpy editor has been telling me horror stories about people trying to be helpful by sending in articles but not getting the correct form. Well, you could help me out, and don’t use disposition forms; plain white paper is fantastic. Don’t type things in all-caps, double or triple space and, please, no military jargon, my editor has this phobia, see? I know this is asking a lot, but I’ve got to get him off my back. He’s bigger than I am.
+
+
+p: Drugii, gavaritchii pa ruski? (apologies for the rough translation, comrades.) If you don’t, then take the course offered by the Education Center Bldg. 1216, from June 22 to September 9. The class meets Tuesdays and Thursdays from 7 to 9:30p.m. and all military and civilian personnel are invited. For further information call the Adult Edu¬ cation Department, 2974/3189.
+
+
+p: Swimming aides are needed to help the Red Cross teach kids how not to drown. If you’re interested in serving as an aide for the Red Cross Youth Swimming Program, call the Red Cross Field Office, Bldg. 97. Training sessions will be conducted at the LAMC pool on June 24’ and 25. So, if you can help keep 'em afloat, lend a hand.
+
+p: Remember that Energy Conservation Poster Contest? Well, people, I’m really impressed with you. I don't see how a post this size could manage to have only ONE poster turned in, and that was too large. Must be a lot of people out there who don’t need or want three day passes and money...
+
+p: Headquarters of the 504th is down at Hunter Liggett doing field training. Must be some beautiful weather there. Hope they have time for more than just training.
+
+p: Bob Hope’s Man Of The Year Award was attended by two Presidio reps from the 16th BPO. Nice goin’ fellers. It must’ve been nice seeing Hope, and munching on a $100 per plate dinner... Who says your Uncle doesn’t love you?
+
+p: I’ve heard lots of ‘comments’ about the Secret Eye by word-of-mouth, but I don’t see anything written or have anyone call. Don’t you ever see or hear anything that might interest somebody? Let me know you’re alive ...
+
+p: So, till next week, peoples, take ’n take and keep on whatever...
+
+::begin:center
+img: /devas/ray/img/eve/1976-06-11.png
+::end:center
+
+talk: #ray help main:footer
+
+::begin:hidden
+#color = {{profile.color}}
+#highlight = {{profile.highlight}}
+#shadow = {{profile.shadow}}
+#bgcolor = {{profile.bgcolor}}
+#bg = {{profile.background}}
+::end:hidden
+::END:MAIN

@@ -1,0 +1,51 @@
+::BEGIN:MAIN
+::begin:buttons
+button[Main]: #ray help
+button[Eve]: #ray help eve/main
+::end:buttons
+
+talk: #ray help eve/main:header
+
+page: 2
+paper: STAR PRESIDIAN
+date: Friday - June 4, 1976
+link: https://archive.org/details/StarPresidianVolume19/page/1973/mode/2up
+
+p: This week I’m two wisdom teeth dumber, which is why there’s no Secret Eye this week. In any case, I’m a whole lot smarter concerning the matter of dentistry, or oral surgery.
+
+p: After spending four weeks contemplating the horrors of having two of my teeth extracted, the BIG day finally came. It took all of my will power not to vacate the dentist’s office. Expecially since I was in no pain, and this definitely looked like the lousing up of a perfectly good three-dayweekend. But, being my brave self, plus several threats from a ‘friend’, I remained.
+
+p: The nurse stalked up to me, at least I thought she was stalking. She took some pertinent information from me, like SSN, name, rank, etc, and the name of my friend, who was to drive me home.
+
+p: She handed a prescription to my friend, told me to follow her, and made the startling declaration that I would be out by the time he came back with the pills. So fast? My heart started thumping on the roof of my mouth. I felt the pit of my stomach give way. I knew I was being led to the most horrible experience of my young life.
+
+p: Crawling into the ‘chair’, I felt two feet tall, 5 years old, and terrified. I just knew this nice look¬ ing man was the Dr. Jeckyl/Mr. Hyde of my life. After politely asking him to please go back to wherever it was he came from, he placed an IV drip into my arm and told me to relax. RELAX????’ Now I was beginning to wonder about the man’s sanity. How could I relax???? But, after adding the sodium pentothal to the sugar water drip, I most definitely did relax. My eyes grew heavy. My thoughts were fuzzy. NOW they’re going to get me. I’m in a state of total helplessness. OH NO!!!!
+
+p: When I awoke, my first question was ‘Is it over’? Receiving a positive answer, I next asked What time is it’? To this question I was given another totally startling response. Only five minutes had passed since I’d ‘gone to sleep.’ How amazing modern science, is, I thought. I had felt no pain, and still felt none. My mouth was hardly swollen at all, and most of that, I discovered, came from the wad of gauze in my mouth.
+
+p: Then to add to my amazement, the nurse, who was no longer stalking, helped me walk to the waiting room, where my escort had not yet re¬ turned from the pharmacy. ‘Will miracles never cease?’
+
+p: The rest of Friday I was pretty well ‘out’ of it. Then Saturday morning I woke in one BAD mood. I wasn’t in a lot of pain, very little as a matter of fact, but I did want to call the doctor and tell him a thing or two ...
+
+p: After a couple hours rest, I felt much better and was definitely glad I had refrained with the telephone call. I spent a quiet Saturday, then re¬ sumed my normal rambunctious life Sunday with a visit to friends, a few drinks and an overall good time. I even managed a picnic Monday. And eating hasn’t been a big problem either.
+
+p: So, people, if you’ve got to get those nasty wisdom teeth pulled, go ahead. It’s really not as bad as you can build it up to be. And the doctors are great.
+
+p: Till next week people, take 'n take and keep on whatever.
+
+---
+
+::begin:center
+img: /devas/ray/img/eve/1976-06-04.png
+::end:center
+
+talk: #ray help main:footer
+
+::begin:hidden
+#color = {{profile.color}}
+#highlight = {{profile.highlight}}
+#shadow = {{profile.shadow}}
+#bgcolor = {{profile.bgcolor}}
+#bg = {{profile.background}}
+::end:hidden
+::END:MAIN

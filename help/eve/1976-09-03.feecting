@@ -1,0 +1,51 @@
+::BEGIN:MAIN
+::begin:buttons
+button[Main]: #ray help
+button[Eve]: #ray help eve/main
+::end:buttons
+
+talk: #ray help eve/main:header
+page: 4
+paper: STAR PRESIDIAN
+date: Friday - September 3, 1976
+link: https://archive.org/details/StarPresidianVolume19/page/n153/mode/2up
+
+p: **After the beautiful weekend I had,** getting back to the old grindstone was definitely a drag. But, I’m surviving, whether I wanted to or not. To tell the truth, I’d much rather spend all of my time playing. Life’s tough when you get to the point where you’re supposed to be a “responsible adult.” Terrible words!!!
+
+p: **I got a complaint the other day from Alfredo.** Seems as though somebody doesn’t know how to drive. I was told, “A driver’s license is not a license to run over pedestrians, not even in the parking lot. So, how about you frustrated race drivers acting out your fantasies someplace where it’s safer for everybody? I declare, some people never learn until it’s too late.” Now, really. Everybody crosses the parking lot sooner or later, so be cool. Don’t act like you got your driver’s license out of a Cracker Jack box!!!
+
+p: **All you shutterbugs, now is the time** to dust off that supermaticflex camera. There is a photography contest that gives both amateur and experienced photographers a chance to see just how good, or bad, you are. Check out 28-3, dated July 12,1976 for details. So, check your f-stop, adjust your ASA, waggle your shutter speed and happy shooting.
+
+p: **The post has a new comptroller.** George J. Morrison came to the Presidio from Military Traffic Management Command at Oakland Army Base, where he served as the Budget Officer. Hope you enjoy it here, and from talking with the people you’ll be working with, I doubt you’ll have any real problem. Such open enthusiasm!!! It’d be nice if everyone had such a joyful outlook on life. It was indeed a pleasure just talking with the staff. ..
+
+p: **Hey! With the NCO club closed,** you’ll now have two alternatives. One, the dayroom at Garrison. And now the Hof Brau section of the Main Snack Bar will be open till 9 p.m. Monday through Friday. Their weekend hours will be the same. But, they’ll have pizzas, sandwiches, BEER, and other goodies. Plus, there’s the amusement machines, pinball and that. So, get the gang together and enjoy . . .
+
+p: **Speaking of the dayroom,** there was a party there last Friday .. . but, it seems there were only a few people on their toes. Now, group, those pool tables are nice. So is the TV, and the other facilities there. The club has already been closed, so it’s too late to cry over spilled milk. But, it’s not too late to keep that from happening to the other decent places on post. Look out for yourselves . . . nobody owes you these things. This is only my opinion, but I really believe that if nobody uses the dayroom or uses it with abuse, it’ll be closed too. So, take advantage of all the things while you have them . . .
+
+p: **Looks like the Ft. Scott athletes** are holding their own. The 16th BPO beat LAIR in a practice Flag football game . . . hang in there. You’re lookin’ good.
+
+p: **And from the BPO, Bob Atkins** only has 27 more working days until he PCS’s... I’m gonna miss jiving with him. He’s a good guy, but I know he’s looking forward to heading south again.
+
+p: **IG’s again. This time D Co. 864th Eng.** is preparing for theirs. Good luck and don’t work too hard ... but, you shouldn’t have that much trouble now that you have two new guys to help. SP5 Kenneth Thomas, from Korea, and SP4 Paul Kinser from Germany, should be able to offer some help . .. Welcome to the Presidio in time to see the fun!!!
+
+p: **For grace and beauty, there’s not much** that can beat ballet. Registration for fall classes will be Thursday and Friday, the 9th and 10th of Septemberfrom 4 to 6 p.m. in bldg. 1390. For more info call Mrs. Piernik, 994-0681 between 12 and 2 p.m.
+
+p: **For all you guys (and, to be correct, gals)** who want to give up smoking, ADAP has a program to help. For more info, call 2663/2528 and ask for Lt. Swegart or Eileen Henriques. . .sounds good, if only it would work. Think I’ll call, too.
+
+p: Well, after a month in the field, the 170th came back. I heard everything went well, but then it usually does. Of course, I haven’t had a chance yet to hear any good stories about things happening in the field from the troops . ..
+
+p: Can you believe the MP’s won the Post Reen¬ listment Award??? Well, the 402nd was given the award last Monday morning. Glad to know all the experienced MP’s are staying in . .. the security, we need the security!!!
+
+p: SP4 Donald Stoop and SP4 Frank Anaya are new to the 504th. I don’t know where they came from, but glad you’re here, guys. And leaving the 504th is SP4 John Bribes; SP5 Danny Coursey; SSgt. Denzil Neff; and SFC James Williams. Hope your next tour isn’t as foggy as this one, but just as nice. Good luck, people.
+
+
+talk: #ray help main:footer
+
+::begin:hidden
+#color = {{profile.color}}
+#highlight = {{profile.highlight}}
+#shadow = {{profile.shadow}}
+#bgcolor = {{profile.bgcolor}}
+#bg = {{profile.background}}
+::end:hidden
+::END:MAIN

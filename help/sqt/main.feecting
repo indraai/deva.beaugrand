@@ -1,3 +1,16 @@
+::BEGIN:HEADER
+::begin:center
+img: /devas/ray/img/sqt-performance.png
+::end:center
+
+published: STAR PRESIDIAN
+page: 3
+date: Friday, May 20, 1977 
+publisher: US Army Training and Doctrine Command
+describe: The #SQT, a simple, three-part test, will involve every soldier. The #SQT officially became an integral part of every soldier’s career growth in April 1977 when testing began for record. 
+link: https://archive.org/details/StarPresidianVolume20/page/n87/mode/2up
+::END:HEADER
+
 ::BEGIN:MAIN
 ::begin:buttons
 button[Main]:#ray help
@@ -7,23 +20,12 @@ button[Main]:#ray help
 img: /devas/ray/img/sqt-logo.png
 ::end:center
 
+talk: #ray help main:vars
+
 # Skill Qualification Test 
-l: **Performance emphasized**
 
-const: #RQT = Reenlistment Qualification Test
-const: #SQT = Skill Qualification Test
-const: #FtEustis = Ft. Eustis, Va. where the U.S. Army Training Support Center is located.
-const: #MILPERCEN = U.S. Army Military Personnel Center
-const: #TRADOC = US Army Training and Doctrine Command
-const: #MOS = Military Occupational Specialty
+talk: #ray help sqt/main:header
 
-published: STAR PRESIDIAN
-page: 3
-date: Friday, May 20, 1977 
-publisher: US Army Training and Doctrine Command
-status: The #SQT, a simple, three-part test, will involve every soldier. The #SQT officially became an integral part of every soldier’s career growth in April 1977 when testing began for record. 
-
-link: https://archive.org/details/StarPresidianVolume20/page/n87/mode/2up
 ---
 
 p: An important point for every soldier to remember is that all MOS testing ceased on January 1, 1977. The #SQT is the permanent replacement for the MOS test. The old MOS test is still available as a special #RQT and can be given “on demand” to soldiers for whom there is no #SQT. 
@@ -41,9 +43,9 @@ p: The solution is simple. Soldiers in this situation should make certain their 
 
 p: Every #MOS Library and Education Center has a copy of the Soldier’s Manual for your #MOS and Skill Level. You can certainly check it out while you’re waiting for your personal copy to arrive. 
 
-p: Irrelevant facts are not a part of the test. 
+- **Irrelevant facts are not a part of the test.**
 
-p: Trick questions are not part of the test. 
+- **Trick questions are not part of the test.**
 
 p: Each soldier will show his ability to perform the critical tasks by demonstrating them during the hands-on component or answering realistic questions on the written portion, or his commander will certify he or she has performed (or not performed) a certain task up to standards within the previous twelve months. Each job will determine which components best demonstrate the soldier’s ability.
 
@@ -56,6 +58,7 @@ img: /devas/ray/img/sqt-cartoon.png
 #highlight = {{profile.highlight}}
 #shadow = {{profile.shadow}}
 #bgcolor = {{profile.bgcolor}}
+#bg = {{profile.background}}
 ::end:hidden
 copyright: (c)2025 Quinn Michaels
 ::END:MAIN

@@ -1,0 +1,58 @@
+::BEGIN:MAIN
+::begin:buttons
+button[Main]: #ray help
+button[Eve]: #ray help eve/main
+::end:buttons
+
+talk: #ray help eve/main:header
+
+page: 2
+paper: STAR PRESIDIAN
+date: Friday - July 16, 1976
+link: https://archive.org/details/StarPresidianVolume19/page/n123/mode/2up
+
+p: Went to L.A. last weekend, and as much as I hate to admit it, it did feel good to get back to San Fran¬ cisco. Why, I can’t fathom ... But, L.A. is a fantastic place. And what can I say about Disneyland ... of course, this was my first trip. But, hopefully, not my last.
+
+p: I was handed a small pamphlet the other day with huge letters screaming Your Dog May Be Dying. This was interesting, because I don’t have a dog. But, for you folks that do, please remember when you take your pet with you, that the inside of your car heats quickly. On an 85 degree day, the temperature inside your car with the windows opened slightly will reach 102 degrees in 10 minutes. In 30 minutes it’ll go up to 120 degrees. Your dog can only withstand 107-108 degrees for a very short time before suffering irreparable brain damage. So, keep your pet in mind, and be considerate. I know I’d hate to have my brainfryed ...
+
+p: Headquarters USAG has gotten some new folks. SP5 Johann Brown came in from Germany; SP5 Adriano Mariano, SP5 Fred Herbert and SP4 Owen Cryer are assigned to HQ. and will be working in finance. Pvt. Neal Nutter, a supply clerk, is new to the Presidio from the Kansas National Guard. Last, but not least, is Pvt. Robert Gonzalez, vehicle driver, from Ft. Dix, N.J. Hope you new guys enjoy the fog ...
+
+p: There’s an observation on traffic moving on and off the post by the 170th MPs, with help from the 270th MP Reserve unit from Colo. I don’t know if they’re mnitoring speed at the same time, but you can’t be too careful... keep it legal.
+
+p: Lieutenant Randolf Mitchell took over Lieutenant Bobby Summers’ responsibilities at the 504th MP Headquarters. Good luck with your new job, Sir. And Captain Spearman did leave the 504th, but he left it in the capable hands of Captain Michael Robinson. I’ll miss talking with Capt. Spearman, but Capt. Robinson seems pretty together, too ...
+
+p: Speaking of awards ... The 504th’s Consolidated Mail Room has been selected as the outstanding Mail Room on post for this quarter.
+
+p: The NCOIC of the Military Mail Terminal, Sergeant First Class John Miller and Private First Class Egbert Tharp have left the 16th BPO for Germany. The mail must get through ... everywhere.
+
+p: SP4 Danny Powell is the new supply clerk for the 16th BPO and Pvt. Vicky White is a reservist from Fresno, training at the BPO for two weeks ... Enjoy.
+
+p: Bridge building practice is going on at Camp Parks by the First Platoon of D. Co. 864th. Second verse, chorus; ... London Bridge is falling down, falling down ...
+
+p: Staff Sergeant William Weldon has left the 864th for Korea, while SP4 Robert Bucol PCSed to Turkey.
+
+p: I hear he’ll be right on the Russian border...
+
+p: My ‘short’ editor is SO short (how short is he?) as to be almost invisible. In fact, he’s got no more office days, but now the real work starts ... outprocessing. Good luck, Dave.
+
+p: Don’t forget the Bicentennial Cookout at the Trade Winds today. Starts about 4, and there’ll be a talent show, and a dance later in the evening ... I’ll be there.
+
+p: “Pine Street Band” will be at the Rec Center to¬ night from 9p.m., till. And tomorrow night you can do a little foot stompin’ to some 40’s, 50’s and 60’s music, for all you nostalgia buffs, to the tunes of "Harry Mason and his Orchestra. Both at the Rec Center, and Free.
+
+p: Small, furry kittens make great pets ... they’ll play, but at the same time they’re relatively independent critters ... Don’t need to be walked, and keep them¬ selves clean. For free kittens, three months old and house-broken, call 664-5932, anytime. There are two females and one male. One of the kittens is tiger colored and the other two are grey and white ... Meow ...
+
+p: Usually, the weekly bulletin handles these types of giveaways. To contact the bulletin, call 3601.
+
+p: To develop a little taste, why not join the Wine Tasting Class? It’s a five week course meeting once a week for 2 1/2 hours. $28.00 will cover all costs. Sign up at the Rec Center.
+
+p: Another week closes, and I ride off into the weekend ... lovely thoughts. Till you have to think of Monday ... Take'n take and keep on whatever. I will.
+
+talk: #ray help main:footer
+::begin:hidden
+#color = {{profile.color}}
+#highlight = {{profile.highlight}}
+#shadow = {{profile.shadow}}
+#bgcolor = {{profile.bgcolor}}
+#bg = {{profile.background}}
+::end:hidden
+::END:MAIN

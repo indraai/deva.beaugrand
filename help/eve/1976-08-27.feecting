@@ -1,0 +1,39 @@
+::BEGIN:MAIN
+::begin:buttons
+button[Main]: #ray help
+button[Eve]: #ray help eve/main
+::end:buttons
+
+talk: #ray help eve/main:header
+
+page: 4
+paper: STAR PRESIDIAN
+date: Friday - August 27, 1976
+link: https://archive.org/details/StarPresidianVolume19/page/n149/mode/2up
+
+The weather this week has been absolutely beautiful!!!, Somebody must be living right, though I don’t know who it could possibly be... I just hope the weather stays pretty through the weekend.
+
+YAY! D Co. 864th Engineers. I hear you beat Letterman and took the championship. Way to go, guys ... Course, I also heard you'll be participating in a couple of parades. Good training ... and ya know I’m glad it ain’t me!!! I still haven’t figured out why you are building a castle in front of your HQ building, but it’s coming along beautifully. And you guys are doing great tearing buildings down, too, and carrying the rubbish off... Welcome back SP4 John Johnson. Personally, I do think the Presidio has to be a much nicer place than Korea, but then I’ve never been to Korea, ... knock on wood ... And we’re saying goodbye to SP5 Raudal S. Benavides, who’ll be off to ITALY ... I do hope green is beautiful, cause that’s about the shade I am with envy... enjoy.
+
+504th HHD got a new sergeant in from Germany. AND he made E-8 this week. So, I send my warm welcome and big congrats to Washington Lewis ...
+
+The 402nd is still on white hat duty ... repeated warnings are boring, I know, so I shan’t tell ya to keep a look-out again ... You might think that with the 170th up at Ft. Lewis all would be relatively quiet on that front. WRONG. They’ve gotten in a whole group of new people. SSgt. Michael Griffiths came from Germany; Sgt. Larry Barkow, also from Germany; SP4 Michael Brown, from Round Up, Montana. (Can you believe there’s really such a place???) SP4 Gary Jackson, from MP school at Ft. McClellan (Oh, how I remember good ole Ft. Mac... UGH!!!) PFC Bobby Lee Elliot, AIT at Ft. Campbell; Pvt. Victor Anes, AIT at Ft. Sill; and Pvt. James Duncan, AIT at Ft. Lee. Hi, guys ...
+
+Now, not only has the 170th gotten in a whole group of new people, but they also had SP4 Joseph Jackson reup. And Sgt. Richard Johns became a daddy...
+
+Five of Presidio’s young people participated in a Skate-A-Thon—24 hours of it. Dewania Sanders, 14, Linda Sanders, 15, Cecelia Sanders, 17, Jimmy Shaw, 10 and Laurie Carr, 16, all got ’their own sponsors for the endurance contest and the five of them raised $701.80 for the Jerry Lewis Muscular Dystrophy Association. Dewania, Linda, and Jimmy skated the full 24 hours, while the other two children made it through 12. That’s really fantastic, gang. A worthy cause and an admirable showing. We’re proud of you.
+
+Headquarters USAG is having a party ... in the dayroom tonight. There’ll be soft drinks, snacks and beer, so carry yourself on down. Doors open at 5 p.m. and will stay open till 1 a.m. The hours during the rest of the week are; 5-11 p.m. Wednesdays and Thursdays; 5 p.m.-l a.m. Saturdays; and 1-11 on Sundays. Sounds like a good way to socialize ... expecially since the club's closing.
+
+Another week, and it’s time to start snooping all over again ... enjoy the weekend, and remember that some day, somewhere, somebody may be listening ... Take n take n keep on whatevering. I will.
+
+talk: #ray help main:footer
+
+::begin:hidden
+#color = {{profile.color}}
+#highlight = {{profile.highlight}}
+#shadow = {{profile.shadow}}
+#bgcolor = {{profile.bgcolor}}
+#bg = {{profile.background}}
+::end:hidden
+::END:MAIN

@@ -1,0 +1,381 @@
+::BEGIN:MAIN
+::begin:buttons
+button[Main]: #ray help
+button[Eve]: #ray help eve/main
+::end:buttons
+
+talk: #ray help eve/main:header
+
+# The secret eye
+
+## Friday - May 7, 1976
+
+marker: Page 2, STAR PRESIDIAN, Friday, May 7, 1976
+retire: Helen Jones of the #CPO
+arrive: Donald Wolffbraundt - Chief Warrant Officer 2 - 504th MP Battalion
+leave: Selma Russell - Sergeant - 170th MP Co - Germany
+leave: Robert Anderson - Sergeant - 170th MP Co - Germany
+retire: Franklin G. Mead - Sergeant First Class - 170th MP Co
+arrive: Arthur Moore - Lieutenant - 16th Base Post Office
+arrive: Marshall G. Worster - PV2 - 864th Engineers
+arrive: Larry D. Moore - PV2  - 864th Engineers
+arrive: Gregory S. Steen - PV2 - 864th Engineers
+arrive: Michael Gluff - SP4 - 864th Engineers
+arrive: John R. Bellando - Sergeant - 864th Engineers
+arrive: Juaquin Barela - SFC Platoon Sergeant - D Co. 864th - May 3, 1976
+
+button[View Article]:#ray help eve/1976-05-07
+
+-
+
+## Friday - May 14, 1976
+
+marker: Page 3, STAR PRESIDIAN, Friday May 14, 1976
+note: Emergency Numbers
+117: Fire
+110: Military Police
+2104: Facilities Engineer Emergencies
+3166: LAMC Emergency Telephone Number
+4181: LAMC Emergency Telephone Number
+4177: LAMC Emergency Telephone Number
+
+
+button[View Article]:#ray help eve/1976-05-14
+
+-
+
+## Friday - May 21, 1976
+
+depart: May 21, 1976 - First Sergeant McDowell of the 170th to Germany
+move: SFC Joe Russell 170th move to First Sergeant 163rd
+
+arrive: Private Roger Rogers D Co. 864th.
+arrive: Private Bruce Anderson D Co. 864th.
+arrive: Private James Sanders D Co. 864th.
+arrive: Private Ricky Labitoria D Co. 864th.
+arrive: Private Robert Both D Co. 864th.
+arrive: Private Michael Rau D Co. 864th.
+arrive: SP/4 Jesus Meno D Co. 864th.
+arrive: Lt. Paul Masterson 504th Platoon Leader working with the 170th MP
+depart: Major Joseph Koonin leaving the 504th going to 6th Army Headquarters
+
+mark: Saturday - May 15, 1976 marked the 35th birthday of the 504th MP Co. 
+born: May 15, 1941
+
+button[View Article]:#ray help eve/1976-05-21
+
+-
+
+## Friday - May 28, 1976
+
+arrive: Captain Arthur W. Lamb the 504th MP Tuesday May 25, 1976
+depart: Lonnie D. Palm 16th BPO and the Army
+depart: SP4 Melvin G. Knox got a permanent change of station to Alaska
+arrive: Lieutenant Sundra Boyd.  Wednesday - May, 12, 1976
+make: the number of female officers in Garrison a grand total of three.
+
+button[View Article]:#ray help eve/1976-05-28
+
+-
+
+## Friday - June 4, 1976
+
+nurse: The Stalker Nurse collected SSN, Name, and Rank
+friend: The Drive Home Friend
+meds: Sodium Pentothal and Prescription to Drive Home Friend
+doctor: Dr. Jeckyl/Mr. Hyde of her life.
+
+button[View Article]:#ray help eve/1976-06-04
+
+-
+
+## Friday - June 11, 1976
+
+present: Nasty Grumpy Editor telling Horror Stories
+speaks: Drugii, gavaritchii pa ruski? (apologies for the rough translation, comrades.)
+needs: Swimming aids to assist Red Cross
+constest: Energy Conservation Poster Contest
+notice: 504th is at Hunter Liggett for Field Training
+slogan: So, till next week, peoples, take ’n take and keep on whatever...
+
+button[View Article]:#ray help eve/1976-06-11
+
+-
+
+## Friday - June 18, 1976
+
+return: 504th MP return from Hunter Liggett
+depart: SP4 Tim Young 170th PCS to Germany
+depart: Sgt. John Mathews to Korea for September
+promoted: SP4 Stanley Hill 
+reenlist: SP5 Jeffery Corker
+reenlist: SSgt. George Genron
+reenlist: SP4 Michael Patrick
+reenlist: Sgt. Frank Burgess
+arrive: SP5 Richard Lind arrived from Germany to the 864th D Co.
+arrive: PV Anthony Martinez 864th D Co. from AIT at Ft. Leonardwood, Missouri.
+arrive: PV Scott McCrumb 864th D Co. from AIT at Ft. Leonardwood, Missouri.
+arrive: PV Mark Parrott 864th D Co. from AIT at Ft. Leonardwood, Missouri.
+arrive: PV Craig Bumpus 864th D Co. from AIT at Ft. Leonardwood, Missouri.
+arrive: PV Gilbert Rucker 864th D Co. from AIT at Ft. Leonardwood, Missouri.
+arrive: PFC Donald Korners 864th D Co. from AIT at Ft. Leonardwood, Missouri.
+arrive: Chief Warrant Officer 3 Jerold K. Evans in from Germany.
+depart: PFC Brian Peterson to the 802nd Engineers in Korea.
+depart: SP5 Julius Lock to the 44th Engineers in Korea.
+arrive: Pvt. Chris Colon to the 864th from AIT at Ft. Leonard Wood
+arrive: Pvt. Jorge Acevedo to the 864th from AIT at Ft. Leonard Wood
+arrive: Pvt. Michael Clauch to the 864th from AIT at Ft. Leonard Wood
+arrive: PFC Gerald Klofanda to the 864th from AIT at Ft. Leonard Wood
+arrive: Pvt. Royal Towns to the 864th from AIT at Ft. Leonard Wood
+arrive: Pvt. William Shaffer. 
+arrive: SP5 John McVade Cook, coming from APO New York, possibly Germany
+
+button[View Article]:#ray help eve/1976-06-18
+
+-
+
+## Friday - June 25, 1976
+
+code: Monday was the first day. Although we didn't. Speaking of pictures. No fireworks on post! The Rec Center is sponsoring a dance. One of our strange. Another letter. I may have been a little hasty. There was a fire. A Book Swap. Registration for the Youth Ballet. Headquarters Garrison has two. There’s a cute little. 
+thank: Don Johnson for his pix of the Bicentennial Marching Unit
+reporter: Alfredo the Ubiquituous
+reporter: Robyn Sherwood
+arrive: Sergeant Major Bart Brown to DPTSEC from Germany
+move: Staff Sergeant James Scott new operations NCO in charge of the duty roster from the Race Relations Department on the Presidio.
+build: Castle being built outside the 864th’s building.
+
+button[View Article]:#ray help eve/1976-06-25
+
+-
+
+## Friday - July 2, 1976
+
+retire: Sergeant Steven Shephard after 20 years in Army.
+watch: Watch out for mail bombs 9” x 12” or 10” x 13” and up to 3/4 of an inch thick
+officer: Chief Warrant Officer David Ridley
+event: July 20, 1976 from 8am to 3pm Building 135 Bood Drive
+apology: Sgt. Gendron 864th for getting his name wrong.
+motto: Take and take, and keep on whatever...
+
+button[View Article]:#ray help eve/1976-07-02
+
+-
+
+## Friday - July 9, 1976
+
+trip: First trip to Disneyland weekend of July 10, 1976
+arrive: SP5 Johann Brown from Germany
+arrive: SP5 Adriano Mariano to HQ
+arrive: SP5 Fred Herbert to HQ
+arrive: SP4 Owen Cryer to HQ
+arrive: Lieutenant Randolf Mitchell at the 504th MP Headquarters
+depart: Lieutenant Bobby Summers’ leaves the 504th Headquarters
+depart: Captain Spearman leave the 504th
+arrive: Captain Michael Robinson to the 504th
+depart: Sergeant First Class John Miller left the 16th BPO for Germany
+depart: Private First Class Egbert Tharp left the 16th BPO for Germany
+arrive: SP4 Danny Powell is the new Supply Clerk for the 16th BPO
+arrive: Pvt. Vicky White is a reservist from Fresno
+depart: Staff Sergeant William Weldon left the 864th for Korea
+depart: SP4 Robert Bucol PCSed to Turkey with line "I hear he’ll be right on the Russian border..."
+
+button[View Article]:#ray help eve/1976-07-09
+
+-
+
+## Friday - July 16, 1976
+
+arrive: SP5 Johann Brown from Germany to HQ in finance
+arrive: SP5 Adriano Mariano from Germany to HQ in finance
+arrive: SP5 Fred Herbert from Germany to HQ in finance
+arrive: SP4 Owen Cryer from Germany to HQ in finance
+arrive: Pvt. Neal Nutter, a supply clerk
+arrive: Pvt. Robert Gonzalez, vehicle driver
+arrive: Lieutenant Randolf Mitchell to 504th MP Headquarters
+depart: Lieutenant Bobby Summers from 504th MP Headquarters
+depart: Captain Spearman from 504th
+arrive: Captain Michael Robinson in 504th
+depart: Sergeant First Class John Miller from 16th BPO to Germany 
+depart: Private First Class Egbert Tharp from 16th BPO to Germany
+arrive: SP4 Danny Powell supply clerk for 16th BPO
+depart: Staff Sergeant William Weldon left the 864th for Korea
+depart: SP4 Robert Bucol PCSed to Turkey.
+class: Wine Tasting Class
+
+button[View Article]:#ray help eve/1976-07-16
+
+-
+
+## Friday - July 23, 1976
+
+button[View Article]:#ray help eve/1976-07-23
+
+-
+
+## Friday - July 30, 1976
+
+arrive: Capt. James Richarson assumed command 170th
+depart: Capt. Richard Whit Wise from 170th
+arrive: Pvt. Alfonso Daley joined to the 170th from AIT
+training: 504th having Prime Time Training
+security: 402nd part of the 504th at Camp Parks MP Security Duty
+4657: Crime Prevention Section of the PMO
+4664: Crime Prevention Section of the PMO
+3993: Presidio Playhouse
+
+-
+
+## Friday - August 6, 1976
+
+arrive: Command Sergeant Major Willie K. Williams, LAMC 
+arrive: Major Wallace J. Brown, Medical Services Command
+arrive: SP6 Thomas Beyler legal clerk for 504th from Germany arrived August 6, 1976
+arrive: SP4 Thomas Crooks, from Germany
+depart: SSgt. Donald Green, PCS to Hawaii
+depart: SP4 Leonard Park, ETS to Germany
+depart: SP4 Mark Palmer to Germany
+depart: ETS; SP4 Steven Erbeck, ETS to Germany
+depart: PFC Victor Hazelwood to Germany
+depart: Pvt. Mark Dickson, ETS to Germany
+arrive: Pvt. Kimberly Jones the 16th BPO
+depart: Sgt. Bob Atkins to New York
+arrive: Sgt. John Golden at Headquarters Co. USAG 
+code: CARTOONS!!! Yeah! A Super Duper Kartune Karnival
+motto: take ’n take ’n keep on whatevering ... I will.
+
+button[View Article]:#ray help eve/1976-08-06
+
+-
+
+## Friday - August 13, 1976
+
+colonel: Colonel John Valient
+arrive: Major Carolyn Cain is heading the 504th MPs HHD
+depart: Lt. Col. Norman Harmes, DPCA to North Forts as the Installation CO. 
+arrive: Col. Richard Ament from Japan
+promotion: Lt. Richard Schultz to Captain
+depart: Lt. Col. Allen Bresette for Korea
+arrive: Major Samuel Pearson
+arrive: Pvt. Marcellous Harrison from AIT at Ft. Jackson
+
+button[View Article]:#ray help eve/1976-08-13
+
+-
+
+## Friday - August 20, 1976
+
+arrive: Pvt. Nolan Woodward, straight out of AIT, Ft. Leonard Wood
+arrive: SP4 Pascasio Rivera from Germany
+arrive: PFC Mark Fujimoto from Germany
+depart: SP4 Wayne Sullivan to University of Tennessee
+depart: PFC Victor Hazelwood to Germany
+depart: SP5 Jewell Riley ETSed
+arrive: SP5 Carol Slaughter from Germany
+
+button[View Article]:#ray help eve/1976-08-20
+
+-
+
+## Friday - September 3, 1976
+
+arrive: George J. Morrison from Military Traffic Management Command at Oakland Army Base
+closed: NCO club
+open: Dayroom at Garrison
+open: Hof Brau section of the Main Snack Bar
+arrive: SP5 Kenneth Thomas from Korea
+arrive: SP4 Paul Kinser from Germany
+
+button[View Article]:#ray help eve/1976-08-20
+
+
+talk: #ray help main:footer
+
+::begin:hidden
+#color = {{profile.color}}
+#highlight = {{profile.highlight}}
+#shadow = {{profile.shadow}}
+#bgcolor = {{profile.bgcolor}}
+#bg = {{profile.background}}
+::end:hidden
+::END:MAIN
+
+::BEGIN:HEADER
+::begin:center
+img: /devas/ray/img/eve/avatar.png
+::end:center
+
+# The secret eye
+subtitle: A gathering of people and events under the watchful SP typewriter
+by: Eve S. Dropper
+::END:HEADER
+
+::BEGIN:SOLDIERS
+Donald Wolffbraundt - Chief Warrant Officer 2 - 504th MP Battalion
+Selma Russell - Sergeant - 170th MP Co
+Robert Anderson - Sergeant - 170th MP Co
+Franklin G. Mead - Sergeant First Class - 170th MP Co
+Arthur Moore - Lieutenant - 16th Base Post Office
+Marshall G. Worster - PV2 - 864th Engineers
+Larry D. Moore - PV2  - 864th Engineers
+Gregory S. Steen - PV2 - 864th Engineers
+Michael Gluff - SP4 - 864th Engineers
+John R. Bellando - Sergeant - 864th Engineers
+Juaquin Barela - SFC Platoon Sergeant - D Co. 864th - May 3, 1976
+Private Roger Rogers D Co. 864th.
+Private Bruce Anderson D Co. 864th.
+Private James Sanders D Co. 864th.
+Private Ricky Labitoria D Co. 864th.
+Private Robert Both D Co. 864th.
+Private Michael Rau D Co. 864th.
+invoke: SP/4 Jesus Meno D Co. 864th.
+invoke: Lt. Paul Masterson 504th Platoon Leader
+invoke: Major Joseph Koonin 504th
+invoke: Captain Arthur W. Lamb 504th MP
+invoke: Lonnie D. Palm 16th BPO
+invoke: SP4 Melvin G. Knox
+invoke: Lieutenant Sundra Boyd
+invoke: SP4 Tim Young 170th PCS
+invoke: Sgt. John Mathews
+invoke: SP4 Stanley Hill 
+invoke: SP5 Jeffery Corker
+invoke: SSgt. George Genron
+invoke: SP4 Michael Patrick
+invoke: Sgt. Frank Burgess
+invoke: SP5 Richard Lind 864th D Co.
+invoke: PV Anthony Martinez 864th D Co.
+invoke: PV Scott McCrumb 864th D Co.
+invoke: PV Mark Parrott 864th D Co.
+invoke: PV Craig Bumpus 864th D Co.
+invoke: PV Gilbert Rucker 864th D Co.
+invoke: PFC Donald Korners 864th D Co.
+invoke: Chief Warrant Officer 3 Jerold K. Evans
+invoke: PFC Brian Peterson 802nd Engineers
+invoke: SP5 Julius Lock 44th Engineers in Korea.
+invoke: Pvt. Jorge Acevedo 864th
+invoke: Pvt. Michael Clauch 864th
+invoke: PFC Gerald Klofanda 864th
+invoke: Pvt. Chris Colon 864th 
+invoke: PFC Donald Korners 864th D Co.
+invoke: Pvt. Royal Towns 864th
+invoke: Pvt. William Shaffer. 
+invoke: SP5 John McVade Cook
+invoke: Sergeant Steven Shephard
+invoke: Sgt. Gendron 864th
+invoke: SP5 Johann Brown
+invoke: SP5 Adriano Mariano
+invoke: SP5 Fred Herbert
+invoke: SP4 Owen Cryer
+invoke: Lieutenant Randolf Mitchell 504th MP Headquarters
+invoke: Lieutenant Bobby Summers 504th Headquarters
+invoke: Captain Spearman 504th
+invoke: Captain Michael Robinson 504th
+invoke: Sergeant First Class John Miller 16th BPO
+invoke: Private First Class Egbert Tharp 16th BPO
+invoke: SP4 Danny Powell Supply Clerk for the 16th BPO
+invoke: Pvt. Vicky White
+invoke: Staff Sergeant William Weldon 864th
+invoke: SP4 Robert Bucol
+invoke: Capt. James Richarson 170th
+invoke: Capt. Richard Whit Wise 170th
+invoke: Pvt. Alfonso Daley 170th
+::END:SOLDIERS

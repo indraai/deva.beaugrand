@@ -1,0 +1,51 @@
+::BEGIN:MAIN
+::begin:buttons
+button[Main]: #ray help
+button[Eve]: #ray help eve/main
+::end:buttons
+
+talk: #ray help eve/main:header
+
+page: 2
+paper: STAR PRESIDIAN
+date: Friday - July 30, 1976
+link: https://archive.org/details/StarPresidianVolume19/page/n131/mode/2up
+
+p: **The fogged-in Presidians are complaining about the lack of sun,** warmth, and the ability to see the big, beautiful blue sky. . .although I’ve heard several complaints about the weather, I really don’t think many people complain as much as I do. Being from the land of sunshine and rain, I expected “beautiful California weather.” Boy, was I surprised.. .but, my mom told me a little ditty attributed to Mark Twain, that went something like this: “The coldest winter I ever spent, was a summer in San Francisco.” Although I thought my mom was exaggerating, I must admit she knew what she was talking about. . .but I do wish, especially in this circumstance, that she had been a little less right. ..
+
+p: **The folks down at the commissary are asking,** rightly, that the customers cooperate in returning the shopping carts to the collection points. . .that way they don’t get scattered all over creation, other people have them to use, and the commissary won’t have to raise costs to buy new carts... think about it.
+
+p: **The Army sells some almost outlandish things** ... good for a chuckle anyway. Now, Master Planning Facilities Engineers is accepting closed bids for buildings 233, 234, 236,238, and 239. But, if you buy one, you have to demolish it and carry away the debris . . . why would anyone do this? If you want more info, call 3198.
+
+p: **The 227th Med Detachment has been out doing its job** ... inspecting the ‘dining facilities’ for the troops at Camp Parks. Hope they do as well a job as they have been doing .. . seems they should since SSgt. McKenzie just came back from the Center for Disease Control (CDC) in Atlanta, Ga. Good school
+
+p: **Congratulations are in order** for Captain Norman Hyndman who just got his captain’s railroad bars Wednesday... so, congrats, sir, it’s a long road . . .
+
+p: **The 170th got a new commander Tuesday.** Capt. James Richarson assumed command from Capt. Richard Whit Wise.
+
+p: **The bowling team from the 170th won** three of four games. They played the team in the No. 1 standing, and beat them to now hold the No. 2 place. Moving up . . . slowly, but surely . . .
+
+p: **And, Pvt. Alfonso Daley joined** the 170th straight out of AIT at Ft. Sill, Oklahoma. Welcome to the No. 2 bowling team!
+
+p: **An IG took place yesterday** at the 16th BPO . .. don’t know yet how they did, but I’m sure everything came out fine . . . they worked hard enough . . .
+
+p: **The 504th was having prime time training** at the motor pool when I called, so I talked with the CO. The 402nd, part and parcel of the 504th, is out at Camp Parks pulling MP security duty for the reserves training there . .. gotta protect the troops ...
+
+p: **The Army Education Center** needs an instructor for German classes. A qualified person is needed for Beginning Conversation in German for military people and their dependents . . . guess it ties in with all the PCS moves to Germany ... it would help to speak at least a little of the language.
+
+p: **For all of you CB’ers out there,** the Crime Prevention Section of the PMO is giving away, FREE, metal carrying cases for your CB radio . . . help prevent rip-offs. So if you need one, call 4657/4664. Free cases are a lot cheaper than replacing a broken window, the radio, and anything else that may be of value in your car ... the engine, knobs .. .
+
+p: **Three for Fun will be presented** tonight and tomorrow night by the Presidio Players’ Summer Workshop Theater. Beginning at 8p.m. in the Presidio Playhouse, the program includes three one-act plays. “Dr. Fish,” “Next,” and “Schubert’s Last Serenade,” range from the ridiculous to the sublime . .. and it’s only one dollar. If you need more information, call 3993 between 1 and 5p.m.
+
+p: **Don’t let the fog get you down**, take n take and keep on whatevering ... I will.
+
+talk: #ray help main:footer
+
+::begin:hidden
+#color = {{profile.color}}
+#highlight = {{profile.highlight}}
+#shadow = {{profile.shadow}}
+#bgcolor = {{profile.bgcolor}}
+#bg = {{profile.background}}
+::end:hidden
+::END:MAIN

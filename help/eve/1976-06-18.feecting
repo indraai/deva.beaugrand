@@ -1,0 +1,52 @@
+::BEGIN:MAIN
+::begin:buttons
+button[Main]: #ray help
+button[Eve]: #ray help eve/main
+::end:buttons
+
+talk: #ray help eve/main:header
+
+page: 4
+paper: STAR PRESIDIAN
+date: Friday - June 18, 1976
+link: https://archive.org/details/StarPresidianVolume19/page/n103/mode/2up
+
+p: Wandering around the Presidio this week, I actually managed to come up with some sun! It’s almost enough to make me think summer has actually come to San Francisco. But, I’m a little skeptical about how long it’s going to last.
+
+p: The 504th MP’s came back from a week in the field. I heard they had some outstanding field work. More about that later...
+
+
+p: The 170th had SP4 Tim Young PCS to Germany. Hope he likes it there. Tough if he doesn’t. Sgt. John Mathews was alerted to Korea for September. Good luck, Sarge.
+ 
+p: Then there’s Staff Sergeant Emmit Johnson of the 170th who’s supposed to ETS soon. But, he’s still thinking about it... Hope he makes the right decision, for him.
+
+p: Congratulations SP4 Stanley Hill. Being promoted to four after two years must feel good.
+
+p: There’s a stop sign down by the PX. And I mean down. Hope someone gets around to fixing it soon. It seems to cause even more traffic problems than normally exist. The last thing needed by the PX is traffic problems.
+
+p: There’s going to be a reenlistment ceremony today at Co. D 864th. SP5 Jeffery Corker, SP5 Joseph Fields, S.Sgt. George Genron, SP4 Michael Patrick, and Sgt. Frank Burgess will be either reenlisting or extending. At least some decision was made...
+
+p: A new soldier joined the 864th. SP5 Richard Lind, hailing from Seattle, Wash., arrived on the Presidio from Germany. Hope the Presidio is as enjoyable as Germany. (Actually, I hope it’s more enjoyable than Germany.)
+
+p: More people come into the 864th D Co. than any other place I know of. This week welcomes: PV Anthony Martinez, PV Scott McCrumb, PV Mark Parrott, PV Craig Bumpus, PV Gilbert Rucker, and PFC Donald Korners, all coming from AIT at Ft. Leonardwood, Missouri.
+
+p: Also, Chief Warrant Officer 3 Jerold K. Evans, booked in from Germany. I hope there’s room for all the new arrivals. Enjoy ....
+
+p: With seven new arrivals, the 864th did lose PFC Brian Peterson to the 802nd Engineers in Korea and SP5 Julius Lock to the 44th Engineers in Korea.
+
+p: D Co. 864th has gotten some new troopies: Pvt. Chris Colon, Pvt. Jorge Acevedo, Pvt. Michael Clauch, PFC Gerald Klofanda, Pvt. Royal Towns and Pvt. William Shaffer. All came to the 864th from AIT at Ft. Leonard Wood. There’s also a SP5 John McVade, cook, coming from APO New York, possibly Germany. Welcome to the Presidio, guys. Hope you like looking at the orange Golden Gate...
+
+::begin:center
+img:/devas/ray/img/eve/1976-06-18.png
+::end:center
+
+talk: #ray help main:footer
+
+::begin:hidden
+#color = {{profile.color}}
+#highlight = {{profile.highlight}}
+#shadow = {{profile.shadow}}
+#bgcolor = {{profile.bgcolor}}
+#bg = {{profile.background}}
+::end:hidden
+::END:MAIN

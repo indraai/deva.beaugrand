@@ -1,0 +1,85 @@
+::BEGIN:MAIN
+::begin:buttons
+button[Main]:#ray help
+::end:buttons
+
+# SAGE Strategic Air Ground Environment
+
+date: SEPTEMBER 1959
+link[The Integration of Air Traffic Control and Air Defense]: https://drive.google.com/file/d/1ObXEbh-kq7nSTglw66ZblKg4Yrr32d6U/view?usp=sharing
+
+::begin:center
+img:/devas/ray/img/sage/integration-air-traffic.png
+::end:center
+
+const: #ADC = the Air Defense Command of the United States Air Force
+const: #ADSID = Air Defense Systems Integration Division of the Air Force
+const: #MIT = Massachusetts Institute of Technology
+const: #MITRE = The design and engineering of the system was conducted by The MITRE Corporation, a non-profit organization formed from but independent of the Lincoln Laboratory, working with #ADSID.
+const: #SDCSD = System Development Corporation of Santa Monica, California handled the #SAGE Computer program design, implementation, and checkout.
+const: #ARTCC = Air Route Traffic Control Center
+const: #AMIS = Air Movements Identification Service
+const: #FAA = Federal Aviation Agency
+
+const: #SAGE = Semi-Automatic Ground Environment is a Centralized Data Processing System that receives Surveillance Data from a network of radars and controls Air Defense Weapons over areas substantially greater than the coverage of a single Long Range Search Radar. The design of the SAGE System was initiated by Lincoln Laboratory at #MIT in conjunction with #ADC.
+
+const: #SuperCombatCenters = Nine super combat centers containing Improved Computers. In these Centers the Functions of En Route, High-Altitude Air Traffic Control will be Collocated with Air Defense Functions, with Some Separate and Some Common Functions.
+
+const: #CHARM = CAA High Altitude Remote Monitor that concerned itself only with en route traffic above 24, 000 feet.
+const: #SATIN = SATIN uses a #SAGE type computer located In Lexington, Massachusetts. It tests all traffic control functions planned for the #SuperCombatCenters, but with a reduced capacity of 100 aircraft.
+
+const: #IBM = International Business Machines Corporation
+
+1. Nine #SAGE #SuperCombatCenters operational in the mid-1960's
+2. Experimental program called #SATIN to test integration techniques and equipment.
+
+p: The #SAGE Direction Center contains a large, high-speed, general purpose digital computer which centralizes the processing of radar data and coordinates the control of air defense weapons over an area several hundred miles square. 
+
+p: Used the Whirlwind computer at #MIT to combine filed flight plans from the High Altitude Sector of the Boston #ARTCC with #SAGE radar data, displayed these simultaneously to track and transmit the correclated data to a remote display for use by #ARTCC controllers. 
+
+p: The #FAA and the #AirForce integrated air traffic control air defense over the entire United States. The integration was made possible by the installation during the 1960's of nine Super Combat Centers containing Improved Computers. In these centers the functions of en route, high-altitude
+air traffic control will be collocated with air defense functions, with some separate and some common functions.
+
+## Locations 
+1. Lincoln Laboratory of the #MIT
+2. #ADC of the United States Air Force
+3. #ADSID of the Air Force.
+4. #MITRE
+5. #SDC
+
+## THE SAGE DIRECTION CENTER
+
+::begin:center
+img: /devas/ray/img/sage/sector-schematic.png
+::end:center
+
+1. AN/FSQ-7 computer
+2. Responsible for the air surveillance and defense of an area roughly square in shape and several hundred miles on a side.
+3. Between 20 and 30 of these centers were installed throughout the United States.
+4. A direction center receives digitally coded data automatically and continuously from search radars and height finders over voice bandwidth communications circuits.
+5. Data on flight plans, weapons status, weather, and aircraft tracks is received, respectively, from the  #AMIS, weapons bases, USAF Weather Service, the airborne early warning and picket ships over teletype and voice telephone circuits.
+
+## AN/FSQ-7
+
+p: The AN/FSQ-7 is a large and relatively fast computer designed by the Lincoln Laboratory and the #IBM. The central machine is a stored-program general-purpose computer,
+based on the earlier design of the Whirlwind computer at MIT.
+
+- Binary, parallel, sngle address
+- 32-bit word (in two 16-bit halves)
+- 250,000 word core memory (6 jusecond access)
+- 150,000 word drum memory
+- 4 index registers
+- 75,000 instruction/second operating speed
+- 4000 bit manual keyboard input capacity
+- In-out buffers for up to 1300 cps data
+- 60,000 vacuum tubes
+
+
+::begin:hidden
+#color = #333333
+#highlight = #ffffff
+#shadow = #000000
+#bgcolor = #ffffff
+::end:hidden
+copyright: (c)2025 Quinn Michaels
+::END:MAIN

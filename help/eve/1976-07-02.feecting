@@ -1,0 +1,49 @@
+::BEGIN:MAIN
+::begin:buttons
+button[Main]: #ray help
+button[Eve]: #ray help eve/main
+::end:buttons
+
+talk: #ray help eve/main:header
+
+page: 2
+paper: STAR PRESIDIAN
+date: Friday - July 2, 1976
+link: https://archive.org/details/StarPresidianVolume19/page/n111/mode/2up
+
+p: **The 504th MP lost their ‘shirt’** Wednesday. First Sergeant Steven Shephard retired after 20 years in the Army. We’re losing a good man, too. Hope you enjoy your retirement.
+
+p: **Safety time: Be cool over the fourth.** There’s going to be a lot of heavy traffic, and possible a lot of weaving drivers, so ... plan ahead for your activities. Make sure your car is in good condition, check the cooling system and air conditioner. Make sure your tires have good tread and proper inflation, and have a tune-up, if it’s time. Make sure your family is protected, too—from the sun with glasses, and lotion, from the water with life preservers, and don’t swim in unsupervised or illegal areas. Make this holiday a happy, safe one. We hate to lose readers.
+
+p: **Watch out for mail bombs!!** There are some crazy peoples in the world, and they’ve been sending bombs to their ‘friends.’ The packages are usually 9” x 12” or 10” x 13” and up to 3/4 of an inch thick. They come in envelopes that are brown, or white with blue trim. Be careful, and know your packages.
+
+p: **Why have two offices** do what one office could do more efficiently and economically? Headquarter’s Commandant, Sixth Army and HQ CMDT, Presidio, could see no reason, so there are plans to consolidate the two offices. Chief Warrant Officer David Ridley, Property Book Office, HQ CMDT, Sixth Army said, “The consolidation will eliminate duplication of work. We will maintain the same personnel, but they will be able to accomplish more. The centralization will cut down on paperwork and unnecessary leg work.” The effective date for the consolidation is July 1 according to Lieutenant Colonel Irvin Hirsch, HQ Commandant for the consolidated office.
+
+p: “**I vant to take your blood** ...” (it’s hard to write in a Bella Lugois accent). The Presidio is having a blood drive Tuesday, July 20 from 8a.m. until 3p.m. The place—building 135. But, you gotta contact the key person in your organization for an appointment... maybe the clerk typist?????
+
+p: **The 864th almost** has their orderly room back. It’s being redecorated, and they’re almost done. It’ll be good not to listen to the saws and hammers any more.
+
+p: **Speaking of the 864th** ... Some people tend to think we, the 864th and myself, are hard-hearted enemies. NOT TRUE. We’ve had our differences, but the mistakes in spelling and a few other things were not deliberate on either of our parts. Sorry, Sgt. Gendron... (I spelled it right this time!?!)
+
+p: **With all the worry about fires**, and water shortage, you would think those people who set out the sprinklers would pay a little more attention as to exactly what they’re watering. I’m getting tired of walking in the street trying to avoid a soaking .. and I know other people are, too. Just cause I’m dressed in green doesn't mean I’m going to grow.
+
+p: Make the most of the weekend, but be careful. Let me know your gripes ... I’m not promising anything, but it might help you to voice your complaints, or ideas ... Take and take, and keep on whatever...
+
+p: **Happy 4th!!!** Hope you don’t have to pull details, or have CQ, or get stuck in one form or another working. There’s going to be a lot of things happening, so, enjoy...
+
+---
+
+::begin:center
+img: /devas/ray/img/eve/1976-07-02.png
+::end:center
+
+talk: #ray help main:footer
+
+::begin:hidden
+#color = {{profile.color}}
+#highlight = {{profile.highlight}}
+#shadow = {{profile.shadow}}
+#bgcolor = {{profile.bgcolor}}
+#bg = {{profile.background}}
+::end:hidden
+::END:MAIN

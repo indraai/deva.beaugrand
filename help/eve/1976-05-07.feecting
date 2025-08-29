@@ -1,0 +1,50 @@
+::BEGIN:MAIN
+::begin:buttons
+button[Main]: #ray help
+button[Eve]: #ray help eve/main
+::end:buttons
+
+talk: #ray help eve/main:header
+
+page: 2
+paper: STAR PRESIDIAN
+date: Friday, May 7, 1976
+link: https://archive.org/details/StarPresidianVolume19/page/n77/mode/2up
+
+
+p: As I wander dazedly around the Presidio, new faces are everywhere, and several of the old, familiar ones are gone.
+
+p: After 20 years of secretarial work with different sections here, Helen Jones of the Civilian Personnel Office (#CPO), retired last Friday. Helen was the Employee Development Clerk for the CPO, and will be missed by her co-workers. Now someone else will have to do her work.
+
+p: The 504th MP Company has welcomed a new arrival: (Sounds like someone had a baby.) Chief Warrant Officer 2 Donald Wolffbraundt (with a name like that I never would have made it out of kindergarten.), arrived here the 28th of April to start his new duties as the Automobile Maintainance Officer for the 504th MP Battalion.
+
+p: Sergeant Selma Russell and Sergeant Robert Anderson will be leaving the 170th MP Company for Germany this month. Good luck!
+
+p: Sergeant First Class Franklin G. Mead, also of the 170th, will be leaving the company, too, but for different reasons. After completing 20 active years with the Army, SFC Mead is tipping his cap to the green machine, (retiring) Congratulations, SFC Mead. We hope you enjoy living on the economy.
+
+p: The 16th Base Post Office has a new Executive Officer. Lieutenant Arthur Moore, hailing from Milledgeville, (I never heard of it either), Ga., took over his duties as XO on April 4. He says he is also the Custodian of Postal Effects at the Ft. Baker post office. (With this duty he is responsible for everything in the PO, including a lot of stamps.) Speaking of the Presidio, Lt. Moore said, “I couldn’t ask for anything better. The only problem I have is that I miss the pine trees and red mud of Georgia.” Does the new XO have any goals to better the post office? “Yes. In two years I’m leaving,” he stated laughing. Just kidding, Lieutenant. Lieutenant?
+
+
+p: House cleaning is now going on in the 227th Medical Detachment. May 13 is the scheduled date for their Inspector General’s visit. So, the 227th is raising a lot of dust.
+
+p: Joining D Co., 864th Engrs. are: PV2 Marshall G. Worster, PV2 Larry D. Moore, PV2 Gregory S. Steen, SP4 Michael Gluff and Sgt. John R. Bellando. Welcome to the hammer and nail battalion, gents.
+
+p: A new Platoon Sergeant for D Co. 864th started in-processing May 3 (Monday). SFC Juaquin Barela (close to Baretta, but not quite) came to the Presidio from his assignment in Korea.
+
+
+p: Speaking of Baretta, the Education Center is offering a new criminology course. For further information, all crime buffs should call 4445.
+
+::begin:center
+img:/devas/ray/img/eve/1976-05-07.png
+::end:center
+
+talk: #ray help main:footer
+
+::begin:hidden
+#color = {{profile.color}}
+#highlight = {{profile.highlight}}
+#shadow = {{profile.shadow}}
+#bgcolor = {{profile.bgcolor}}
+#bg = {{profile.background}}
+::end:hidden
+::END:MAIN

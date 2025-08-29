@@ -1,0 +1,59 @@
+::BEGIN:MAIN
+::begin:buttons
+button[Main]: #ray help
+button[Eve]: #ray help eve/main
+::end:buttons
+
+talk: #ray help eve/main:header
+
+page: 4
+paper: STAR PRESIDIAN
+date: Friday - September 10, 1976
+link: https://archive.org/details/StarPresidianVolume19/page/n157/mode/2up
+
+p: Hey, wasn’t Labor Day nice??? If you didn’t enjoy it, I’m sorry, but don’t spoil my memoriesllllt was fantastic!!! I did nothing. Well, that’s not really true. I watched cartoons, slept a lot, played cards and Yahtzee (fun game) and went plinking with a .22 pistol. Nothing constructive . .. how nice.
+
+p: There’s a new chaplain at the 504th. Welcome to the Presidio, Major Donald Nietering. And SP4 Ste¬ ven Dunajoki and Pvt. Mark Williamson are new arri¬ vals to the 504th, too. Hope you enjoy . . . it’s nice, once you get used to it.
+
+p: Lt. Linda Finkelstein has ETSed. Yep, she left the 504th for civvies.. . And SFC Charles Bell has left the 504th for Ft. Ord. I remember once upon a time when I wanted to go there .. .
+
+p: There’s a new finance officer, Robert McCrainey, from Oakland. Hope he can keep the money straight around here ... or, if it gets messed up, make sure it gets messed up in my favor. .. SP5 Andy Mariano got married!!! Bit the dust ... be happy. Teresita Sanaugstine (Mrs. John from Region IX) had a baby!!! A boy, named Gregory . . . Con¬ grats.
+
+p: Transportation is hanging in there!!! SP5 John Wyatt is working on getting cable television on the Presidio!!! One, two, three, YEH!!! And they're wel¬ coming Pvt. Linda Buterhorn, From Ft. Dix AIT. SFC Reynold Mechelhoff has taken over as NCOIC at the motor pool, too.
+
+p: The 170th made it through their month in the field. So far only one ETS this week, SP4 Gary Fost. But they’ve had some new arrivals: Sgt. Larry Darkow, from Germany; SP4 Michael Brown, SP4 Gary Jackson and Pvt. Michael Johnson, all from AIT at McClellan. Ain’t it a lot nicer here???
+
+p: Members of the band sent word they felt neg¬ lected . . .sorry people ... but if anybody feels like they’re ugly red-headed step-children, just holler!!! I can only work with your help . . . anyway, SP4 Gary Myers and SP4 Kevin Loomis have ETSed from the Army and the band. SFC Everett Horton will retire with 24 years of service the end of this month with a Meritorious Service Medal. Looks like the band will be losing a good man. Outside of that, the peoples playing the beautiful music will be rehearsing for their next concert. And this concert will be conducted by the NCO’s rather than the bandmaster . . . Good training.
+
+p: For all you peoples who’ve had questions about the Reserves . . . The Reserve Component Career Counselor is back in operation. This office has been vacant since last March. So SFC Carol Chand has come in to take over the respon¬ sibilities. Her office is in the Welcome Center, bldg. 227, and you can reach her by phone at 2511/5259.
+
+p: Congrats on the promo to Master Sergeant, Juan Hernandez. Really must be nice . . 
+
+p: Personnel has got a whole group of new peo¬ ples . . . SP5 Corazon Pilapil; SP4 Craig Thornburg, and SP5 Janice Pierce are all welcomed to the gar¬ den spot of San Francisco, overlooking the beautiful Golden Gate Bridge and the San Francisco Bay ... but, at the same time SP4 Robin Guinan, SP4 Ralph Penfield, Sgt. Robert Semore, and SP4 Robert Spence will be or have ETSed. Enjoy the civilian world . . . tell me if it’s changed much . . .
+
+p: I found out that there really is such a thing as a farkleberry. Learn something new every day... course I probably could’ve lived my entire life and never missed farkleberries ...
+
+p: Happy birthday, Capt. Robinson.
+
+talk: #ray help main:footer
+
+::begin:hidden
+#color = {{profile.color}}
+#highlight = {{profile.highlight}}
+#shadow = {{profile.shadow}}
+#bgcolor = {{profile.bgcolor}}
+#bg = {{profile.background}}
+::end:hidden
+::END:MAIN
+
+
+const: #TheBearer = The one who has agreed to get all worldly affairs in order, to enter into the world of Chaos, Cacophony & Dark Saturnalia, to live each day as if it were the last, and is a member of good standing of the Suicide Club
+
+for: x in #TheBearer.nodes
+	const: #node = #TheBearer.nodes[x]
+	drop: 💩🪣🍭turdbucket.candy into #node 
+	write: #node report to Authorities
+	then: Leave a note that says "Hi! Quinn Michaels found you!"
+	finally: VectorGuardWall the #node
+	
+done: Write a story about #TheBearer.nodes and what just happened to them... 

@@ -1,0 +1,54 @@
+::BEGIN:MAIN
+::begin:buttons
+button[Main]: #ray help
+button[Eve]: #ray help eve/main
+::end:buttons
+
+talk: #ray help eve/main:header
+
+page: 2
+paper: STAR PRESIDIAN
+date: Friday - June 25, 1976
+
+p: **Monday was the first day** of summer. My mind is filled with outdoors. Sun, dirt clods, flies. The sun is beautiful, the water is wonderful, and the flowers give a perfect complement to them both. And to all of us. Enjoy while you may, it can’t last.
+
+p: **Although we didn't** give him complete credit, we do want to thank Don Johnson for his pix of the Bicentennial Marching Unit, which he would normally have been marching with last Sunday. We used the pix, but forgot to use his name. Thank you for all your photographic work, Don, we appreciate it. No really.
+
+p: **Speaking of pictures**, we were greeted by a resounding silence from all you peoples in regard to our Action Photo Contest. GEEZ. Doesn’t anybody have a camera???? Just take it with you and the next time you get mugged, or fall off your balloon, or whatever, just operate the shutter. That’s the little button on top, for all you guys in the 227th (EXCEPT Debbie C.). Alfredo the Ubiquituous, my snoop, tells me that there might even be prizes, if we get some black and whites (no racial overtones intended!).
+
+p: **No fireworks on post!** It’s illegal. And if you get caught... This includes sparklers and all the other varieties. So, no fireworks on post on the 4th, please.
+
+p: **The Rec Center is sponsoring a dance** tonight featuring Time Now. The music will start at 9p.m. and stop at 1 a.m. Saturday is the Kids Dog Show at 1 p.m.
+
+p: **One of our strange** reporters, Robyn Sherwood, has gotten some feedback on a couple of her articles. A BG wrote from San Antonio about the Pet Cemetery article. He sent in some interesting additions.. .like the fee the owners paid to have the graves tended was only $1.00. Not bad, really. And this gentleman has two pets buried there, so now we know at least one person with some information on the cemetery. Thanks for writing to us, sir.
+
+p: **Another letter** dealt with the 504th’s Unit Crest. That one seemed confusing enough with the verts and dexters and wyvern’s heads. A FORSCOM historian from Georgia wrote in explaining a lot about all that. We thank him for writing, too.
+
+p: **I may have been a little hasty** when I saia n was kids who started that fire at Inspiration Point. My snoop, Alfredo the Ubiquituous, tells me it may have been set by delinquent adults?
+
+p: **There was a fire** at post headquarters recently that was caused by the stove being used but unattended. Please be careful. People depend on you.
+
+p: **A Book Swap** is going on every Thursday at 8p.m„ starting July 1 at the Rec Center. If you’ve read your books once, why not swap them for ones you haven’t read? It’ll save ya a bunch.
+
+p: **Registration for the Youth Ballet** summer classes will still be open on the 28th and 29th of June in Building 1390, near the Ft. Scott Chapel and the Bowling Center. Classes will start July 6 and end Aug. 24. For more info call Mrs. Piernik at 994-0681 from 12 until 2p.m. Swan Lake still lives.
+
+p: **Headquarters Garrison has two** new people in. Sergeant Major Bart Brown arrived June 20 from Germany. He’ll be working at DPTSEC. And Staff Sergeant James Scott is the new operations NCO (he’s also in charge of the duty roster). He came from the race relations department here on the Presidio. Keep those people straight, James.
+
+p: **There’s a cute little** castle being built outside the 864th’s building. I wonder who's going to live there?
+
+p: Till next week, take and take and keep on whatever. Enjoy the weather, if you get the chance, and be careful. A lot of carzies on the highway, and playing with matches... Stay happy.
+
+::begin:center
+img: /devas/ray/img/eve/1976-06-25.png
+::end:center
+
+talk: #ray help main:footer
+
+::begin:hidden
+#color = {{profile.color}}
+#highlight = {{profile.highlight}}
+#shadow = {{profile.shadow}}
+#bgcolor = {{profile.bgcolor}}
+#bg = {{profile.background}}
+::end:hidden
+::END:MAIN

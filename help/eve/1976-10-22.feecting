@@ -1,0 +1,53 @@
+::BEGIN:MAIN
+::begin:buttons
+button[Main]: #ray help
+button[Eve]: #ray help eve/main
+::end:buttons
+
+talk: #ray help eve/main:header
+
+page: 4
+paper: STAR PRESIDIAN
+date: Friday - October 22, 1976
+link: https://archive.org/details/StarPresidianVolume19/page/n183/mode/2up
+
+p: **Sunday afternoons are great** for reading the newspaper ... spreading it all over the floor. Getting right down into it. I read some interesting articles last week. Seems fall is definitely here, and the lady who wrote the article was telling about some water animals being killed. Seals shot. Birds, like seagulls who dive into the water for their food, getting snagged on those plastic beer and soda six-pack holders and not being able to fly or get food ... too bad. Try to be careful where you throw things like that. And if you see any floating in the water or lying around, how ’bout picking them up? It’s really not that much work. And you’ll help the little birdies ...
+
+p: **Transportation has moved!!!** And somebody forgot to tell everybody ... but mistakes do happen. (Believe me, I know!!!) Anyway, they’re in building 39 now (ext. 4972/3512) in the basement. So, if you need bridge passes, local travel, troop movement, port call, sub-office Naval supply center household, airline tickets (ext. 2920), material movement compass (ext. 4300) or the division transportation officer (ext. 2319), they’re all over in the same place. So, don’t go looking for them in bldg. 905, 902 or 917. Cause, they ain’t there!!!
+
+p: **Western Region Recruiting called ...** seems they felt neglected, too. I’m really sorry, but it’s hard to be everywhere all the time. I just can’t get around that much. Anyway, WRR has a new Lt. Lt. Michael Mundt will be the new HQ commandant as of November 1. Welcome home from Alaska, sir... although I’ve heard Alaska is a really nice place. Seems most people who go there, like it. I don’t know.. .seems to me it would be TOO cold ... but then I’m a warm blooded southerner.
+
+p: **And Capt. Art Ward, from WRR,** is TDY to Ft. Ben Harrison to attend the area Commanders Course for Recruiting. Isn’t Ft. Ben nice???
+
+p: **Col. George Tronsrue, WRR commander,** is attending the Executive Program at the University of California at Berkeley for 29 days. I wonder what they teach . . .Hope you enjoy it!!!
+
+p: **I got fussed at the other day.** Now, if you had never seen the name XOTT, wouldn’t you spell it the way it sounds? Well, I did. I really thought it was a relatively simple name. Like Jones. Now, very few people misspell Jones. But, yours truly misspelled Zott. It’s spelled SZOT. Now, isn’t that unusual? But, John is a nice guy and I hate to misspell people’s names. I’m sorry, John. Forgiven???
+
+p: **Pvt. Kenneth Stafford is new to the 864th** from Ft. Leonard Wood. AIT. Hope you like it here. And PFC Thomas Collier has PCSed to Germany. The 864th is working on a rifle range at Camp Parks. And I hear they’re tearing down some building near the Coast Guard station, too. Busy, busy, busy.
+
+p: **Now let me tell you about SP5 Elano Umale** of the 864th. Someone flattened two of his tires (on his car!) Now, nobody has two spares that I’ve ever met. And tires are really expensive. If you have a grudge against someone, fine. Tell the person, but for pete’s sake, don’t cause all that hassle and expense. It takes a big person to openly talk out problems and an awfully small, mean one to do something like that.
+
+p: **The 16th BPO had a PT test Wednesday ...** fun! And Lt. Arthur Moore came back from his visit to Georgia just in time to go to the field the first week of November. Perfect timing ... hope you enjoyed your visit. The hills of Georgia should be absolutely gorgeous about now.
+
+p: **SP4 Robert Davis has left the BPO ...** And the BPO beat the 504th in football... in fact, I don’t know the score, but I heard they slaughtered them ... Must really have a good team. The 504th was the #1 team ... SP4 Myrna Osuna and SP5 Randolph Fifefield are going to the NCO Academy at Ft. Ord ... good luck in that endeavor people. I’ve heard Ft. Ord classes weren’t easy At All.
+
+p: **The BPO does have one complaint.** They don’t have a TV. What with football season going full fun, the guys would really like to watch some of the games. So, if anyone is interested in loaning them one ...
+
+p: **Some of the peoples from the 170th** have started the Criminology course at the, Ed Center. It’s good that the people on this post try to keep learning . ..
+
+p: **The psychology class** starting next week at the Ft. Scott Ed Center, only has 5 (yes, five) people enrolled. I know a few of those 5 people and they’d really like the class to be a ‘go ! Only need about 10 more folks. So, sign up and find out what makes us all tick ... or tock, as the case may be .. .
+
+p: **Remember two things.** November 2 is election day ... so vote. And the CFC situation is low. . . now if I can give a payroll deduction, I see no reason why everyone else can’t. So please try. It’s really a worthwhile cause. And the people who use the various agencies need your help. Maybe you could think of it as a Life present to your fellow man. Open your hearts (yes, and wallets) and be generous. You may need some help oneday yourself.
+
+p: **With generous hearts in mind,** be kind on Halloween, give to CFC, and remember to vote. Take ’n take ’n keep on whatevering. I will.
+
+talk: #ray help main:footer
+
+::begin:hidden
+#color = {{profile.color}}
+#highlight = {{profile.highlight}}
+#shadow = {{profile.shadow}}
+#bgcolor = {{profile.bgcolor}}
+#bg = {{profile.background}}
+::end:hidden
+::END:MAIN

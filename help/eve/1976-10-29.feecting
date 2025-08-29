@@ -1,0 +1,45 @@
+::BEGIN:MAIN
+::begin:buttons
+button[Main]: #ray help
+button[Eve]: #ray help eve/main
+::end:buttons
+
+talk: #ray help eve/main:header
+
+page: 4
+paper: STAR PRESIDIAN
+date: Friday - October 29, 1976
+link: https://archive.org/details/StarPresidianVolume19/page/n187/mode/2up
+
+p: **Here we are with another short week.** It’s really not too bad when you get to spend the three days resting and relaxing, but when you get involved in photojournalism classes and volunteer activities, the three days are spent working almost as hard as duty days.
+
+p: **The first female to join the 51st Engineers** Detachment has done so. Pvt. Claudia Boehl has joined the 51st out of AIT at Ft. Leonard Wood. And to think, she’s a carpenter... better watch out guys ... And SP4 Randy Ohm has joined the 864th Eng. from Germany. Welcome to the Presidio, peoples. Hope you like it here.
+
+p: **The 227th has been involved in giving** swine flu vaccines. The people in the unit have volunteered (most of them have, but some of them are staying in the office) to help the local county health offices give the immunizations. They’ve been working awfully hard the last few weekends ... but it’s a worthwhile cause. Good work, peoples.
+
+p: **And I also hear you’ll be losing one of your bachelors ...** as if I didn’t already know. But, Sgt. Hall, I didn’t know you were wandering into walls, and had a dull, glazed look on your face ... it can’t be that bad ... but please don’t remind me who it was that’s been falling down stairs!!!
+
+p: **Last week the Funston St. sign was spelled Funiston ...** or maybe that was right ... I haven’t gotten down to see if it’s been changed yet. What is it? Funston or Funiston???
+
+p: **SP5 Carol Slaughter, from the 16th BPO,** has graduated from SIDPERS school. Congrats on a job well done, Carol. And the BPO and Military Mail are running a PAL survey trying to make delivery of the mail more efficient. Course, I don’t know what PAL stands for, unless you put PEN iff front of it
+
+p: **The BPO is going to the field November 8 ...** anybody wanting to go can apply to the operations room ... Might make an interesting vacation ... to say the least. SSgt. Joe Diaz has a hurt toe and I hear nobody will do anything about it ... Actually, you may be better off. But, then again ...
+
+p: **The BPO has been lead to four straight** (crooked???) victories by SP5 Randy Fifefield. This quarterback has an average of 86 percent completed passes. Looking good ... And last, but definitely not least, Sgt. Bob Atkins is finally ETSing. On Election Day. He’s heading to Fresno ... well, good luck, Bob. We’ll miss ya, bunches and bunches.
+
+p: **Did I say last? I’m terribly sorry.** The BPO has had a lot of response about their not having a TV. Unfortunately, they still don’t have one. They missed a really good game Monday night . .. even though my team lost, it was still a good game. Lots of rain, and mud and sliding around, and fumbling. Interesting. Too bad you guys had to miss it. So, again, if anybody wants to help the football fanatics out, they’re hurting for a tube.
+
+p: The 170th MP Co. is on ceremony and support month. They’ll be doing a retirement ceremony today. SP4 Paul Cogan went to Okinawa for 10 months and is back at the 170th now . . . can’t stay away. And Pvt. Felice Wilson and Pvt. Robert Slocum have come here from AIT at Ft. McClellan.
+
+p: Leaving the 170th are SP4 Sandra Gregg who ETSed yesterday and SP4 Richard Toland who will ETS today. Enjoy, peoples, whatever you get into.
+
+talk: #ray help main:footer
+
+::begin:hidden
+#color = {{profile.color}}
+#highlight = {{profile.highlight}}
+#shadow = {{profile.shadow}}
+#bgcolor = {{profile.bgcolor}}
+#bg = {{profile.background}}
+::end:hidden
+::END:MAIN

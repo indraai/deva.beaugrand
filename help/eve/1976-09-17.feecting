@@ -1,0 +1,41 @@
+::BEGIN:MAIN
+::begin:buttons
+button[Main]: #ray help
+button[Eve]: #ray help eve/main
+::end:buttons
+
+talk: #ray help eve/main:header
+
+page: 6
+paper: STAR PRESIDIAN
+date: Friday - September 17, 1976
+link: https://archive.org/details/StarPresidianVolume19/page/n161/mode/2up
+
+p: This has been one of those lovely weeks that start out lousy, rapidly deteriorate, then out of the fog-filled skies, comes beauty. So, the week has ended much better than it started out!!! But payday didn’t even help the middle of the week any ... and that’s when things are getting bad .. .
+
+p: This one I thought was pretty good .. . SP4 Jeff Zurinskas has a pilot’s license ... at least I think he still has it. He was out flying around last Saturday when he noticed his oil pressure was dropping... so, he courageously made a precautionary landing.. on Crissy Field ... or what used to be Crissy Field and is now a road. Needless to say, the MP’s did notice this unusual occurrence. But, Zurinskas claims he wasn’t just in a hurry to get to the PX before it closed. ..
+
+p: The 170th is back on white hat duty . . . and they’ve added Pvt. Jeff Trozzo to their list of new peoples. SP4 Charles Womack has ETSed . . . Good-bye, Charlie.
+
+p: And my ever helpful Alfredo tells me that those people in the band (three of them, anyway) do seem to take inordinate good care of their hands. After all, if the hands go, they wouldn’t be able to manipulate their instruments, would they? I guess that explains their walking around with their hands carried very carefully inside their pockets.. . It’s also one good way to rip the pockets out. I know . . .
+
+p: When I goof, I usually do a bang-up job of it! Like last week, I must have been more confused than usual. See, last week I said that Robert McCrainey was the new finance officer. WRONG!!! Major H. D. Flynn is the finance officer. . . and I don't know what Mr. McCrainey does ... but whatever it is, he does it in finance, and I hope he does a good job of it.
+
+p: Now, if Alfredo gave you the idea that all the band’s been doing is walking around with their hands in their pockets, that’s wrong, too. They had a concert Wednesday night and I’m sure was a smashing suc¬ cess . . . and last weekend they played in Lodi... in fact, they got number one in the Marching Band Competition at the Wine and Grape Festival ... wonder if wine tasting improves your musical ability.
+
+p: Another IG!!!!! It’s really amusing to hear all the griping and grumbling that goes on before an IG.. . D Co, 864th had their IG yesterday ... I DO hope they did well... And SP5 Gary Langdon has left for Berlin ... Pvt Scott Howald joined the 864th from AIT at Ft. Belvoir. AND, this is the biggey . . . THE CASTLE IS FINISHED .. . and don’t you dare say ‘so what’...
+
+p: Capt. W. R. Taylor is TDY to Aberdeen Proving Grounds from the 227th Medical Detachment. He’s going to learn about Current Trends in Environmental Engineering and Sanitation . .. whew . . . That is a mouth full.
+
+p: The end of the week... how nice. And this one I’m especially looking forward to. My best friend and her brother (I went to high school with them both) are coming to visit me!!! yay!!! And we’re going skiing. I love it!!! And camping .. . and who knows!!! I do want to see Alcatraz while they’re here ... So, peoples, I hope your’s is as nice as I think mine will be!!! Take ’n take ’n keep on whatevering. I will.
+
+talk: #ray help main:footer
+
+::begin:hidden
+#color = {{profile.color}}
+#highlight = {{profile.highlight}}
+#shadow = {{profile.shadow}}
+#bgcolor = {{profile.bgcolor}}
+#bg = {{profile.background}}
+::end:hidden
+::END:MAIN

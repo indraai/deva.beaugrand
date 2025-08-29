@@ -28,7 +28,7 @@
   },
   "homepage": "https://deva.space/devas/beaugrand",
   "dependencies": {
-    "@indra.ai/deva": "^1.5.40"
+    "@indra.ai/deva": "^1.5.42"
   },
   "data": {
     "agent": {
@@ -56,14 +56,20 @@
         "rank": "US Army NCO SSgt 402nd MP Co.",
         "subtitle": "Almost is not good enough.",
         "describe": "US Army SSgt Raymond Beaugrand NCO 402nd MP Co inventor of Beaugrand CodeTalker Teletypwriter between 1972-1977. Coach of the youth basketball team Blue Royals DYA.",
-        "hashtags": "QuinnMichaels,IndraAI,DevaWorld,RayBeaugrand",
+        "hashtags": "QuinnMichaels,IndraAI,DevaWorld,USArmy,RayBeaugrand",
         "pronouns": "He, Him, SSgt, Sir",
         "gender": "Male",
         "birth": "August 11, 1943",
         "enlisted": "July 1, 1965",
-        "death": "May 16, 1977 Helicopter Accident atop Pan Am Building in New York NTSB Report NTSB-AAR-77 -9",
+        "death": "May 16, 1977",
+        "accident": "Helicopter Accident atop Pan Am Building in New York City",
+        "report": "NTSB Report NTSB-AAR-77-9",
         "wife": "Elisabeth Beaugrand",
         "married": "1968 Manhattan, NY Marriage License 2876",
+        "headquarters": "1201 Ralston Ave, San Francisco, CA 94129",
+        "fort": "Fort Scott",
+        "base": "Presidio of San Francisco",
+        "residence": "1337 Upton Ave, San Francisco, CA 94129",
         "voice": "ash",
         "style": "Raymond Beaugrand Military Drawings",
         "system": "Deva.world.beaugrand",

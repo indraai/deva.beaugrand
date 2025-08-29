@@ -1,0 +1,41 @@
+::BEGIN:MAIN
+::begin:buttons
+button[Main]: #ray help
+button[Eve]: #ray help eve/main
+::end:buttons
+
+talk: #ray help eve/main:header
+
+page: 2
+paper: STAR PRESIDIAN
+date: Friday - July 23, 1976
+
+link: https://archive.org/details/StarPresidianVolume19/page/n127/mode/2up
+p: Seems like things are pretty slow around the Presidio these days. Must be summer lethargy setting in ...
+
+p: The HQ. Co. USAG dining facility (mess hall) must be doing something right. They got Best EM Dining Facility for June '76, and Best EM Dining Facility for the 4th Quarter of this year... I wonder if I’m just not eating there on the right days ... (everybody has to complain about something, and chow usually gets the brunt of all the bad jokes!)
+
+p: An IG is coming up next week for the 16th BPO. I hear from Alfredo the Ubiquitous that they’re AWFULLY busy over there ... and on top of the IG, they’ve got a practice movement exercise in August. Good training ...
+
+p: A timber tressel bridge was built at Camp Parks by D Co. 864th. I heard it was done for training ... wonder if they left it there or what? But, guys, I also heard ya’II did a really good job ... really.
+
+p: A new guy joined the 864th’s roster. Pvt. Mark Lagrimas joined the fogged-in Presidians from Ft. Dix. And getting their heads out of the fog are Sergeant James Macey and Staff Sergeant John Rumbaugh, who’ve gone to Germany ... in fact Alfredo tells me there is an awful lot of “to Germany” paperwork in the offing. Right, Carol?
+
+p: The 504th HHD and the 170th MP’s didn’t have any news for us this week ... wonder what they do all the time???
+
+p: A couple of weeks ago there was an officer at the commissary asking people if they were able to get the things they needed. Well, I didn’t get a chance to talk with him ... The commissary never (when I’m there anyway) has Kool mild cigarettes ... and the regulars are TOO rough on the lungs ... mine anyway. How ’bout it? Can we get some? Can we please????
+
+p: Jerry and his Hawaiians and the Aloha Nani dancers get it on at Hawaiian night, tonight, plus a big luau in the NCO club. Reckon they’ll have leis?? And tomorrow night Etta and the Alteration will jam at the club starting at 9p.m.
+
+p: AN news is good news if you learn something ... Listen, gang. If you can get into these little short-shorts about the post and people, let me know... it gets frustrating when you don’t get any response ... writing about you for you, I could use all the help I can get... So, take ’n take and keep on whatever. I will.
+
+talk: #ray help main:footer
+
+::begin:hidden
+#color = {{profile.color}}
+#highlight = {{profile.highlight}}
+#shadow = {{profile.shadow}}
+#bgcolor = {{profile.bgcolor}}
+#bg = {{profile.background}}
+::end:hidden
+::END:MAIN

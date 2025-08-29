@@ -1,0 +1,52 @@
+::BEGIN:MAIN
+::begin:buttons
+button[Main]: #ray help
+button[Eve]: #ray help eve/main
+::end:buttons
+
+talk: #ray help eve/main:header
+
+page: 3
+paper: STAR PRESIDIAN
+date: Friday - September 24, 1976
+link: https://archive.org/details/StarPresidianVolume19/page/n167/mode/2up
+
+p: **Well, I was right!!!!** (for once!!) My weekend was absolutely perfect!! I really don’t think I could’ve asked for better weather, company, or activity!!! Not only was everything perfect, but I even did well enough on skis to say, “Iknow howto ski”. And I’mreally proud of it... after drinking half the lake, I deserve to have a few pats on the back, even if I give them to myself!!!!
+
+p: **Hey, peoples, the theater people** aren’t trying to hassle you about showing your ID’s... and it’s really little enough to do to save $2 to $3 on a movie... plus they usually have pretty recent movies.
+
+p: **I hear SFC Leo Watford, from the 163rd MP’s,** is in the hospital... heard it was with ulcers... ’course, he is the 1 st sergeant, so maybe it’s one of the hazards of the job ...
+
+p: **The 864th Engrs. got a new CO.** Capt. John Dowell, from Ft. Ord, will replace Capt. John Gates, who’s going to IX Readiness Region ... not to far, but it’s still a change. SSgt. Isom Reed will possibly be the new supply sergeant forthe 864th. SSgt. Reed recently got here from Germany ... welcome .home, sarge. And SFC Charles Cartwright, here from Germany, too, will be a new platoon sergeant.
+
+p: **Along with the old and new folks** coming and going from the 864th, they did get a satisfactory IG. . . bet you’re glad, too, ain’t ya???
+
+p: **Don’t forget the Hof Brau ...** it’s open till 9 p.m. and has all kinds of goodies... like beer (not just draft, but bottles, too) sandwiches, potato chips, etc .. . and it’s a 60-day test period, so if you don’t want to lose that too, better make use of it!!!
+
+p: **D Co., 864th hasn’t lost** too many peoples, in fact, they’ve lost only one, a PFC James Margeson, who is now a civilian.
+
+p: **All right!!! The day room, at Garrison,** is having a keg party. . .FREE!!! There’ll be beer, soda, and snacks, starting at 4:15 p.m., and lasting ’till... so, be there ... it may be fun!!!!
+
+p: **Speaking of MP’s, Sgt. John Reyes** and SP4 Eric Steele, from the 170th, caught a couple of civilians in the act of housebreaking and larceny down by the commissary (bldg. 1185, to be exact). These guys were in the process of making off with a typewriter, and I don’t know what else .. . But, I imagine they’re in a world of hurt, cause they were turned over to the FBI ... See, it’s true. Crime doesn’t pay ...
+
+p: **Capt. W. R. Taylor, from the 227th** is back from TDY... kinda short, but I hear he’s quite pleased with the school .. .
+
+p: **The 16th BPO had a luncheon** last Friday at the Red Boy Family Restaurant for Capt. Robert Root who is going to work at Personnel and Lt. Monte Mingus is taking the position of CO. Capt. Root’s farewell luncheon was definitely well attended ... 35 peoples out of 40 ain’t bad ... and I hear the only reason it wasn’t 40 out of 40 is because they had to leave some bodies to guard the camp ... I know they’ll miss ya, sir. ..
+
+p: **For a duty straight out of AIT,** the Presidio ain’t bad .. . and AIT is where Pvt. Jeanette Jackson was before she joined the 16th BPO. SP5 Willie Thomas came here from Korea, and SP5 Arnold Jones did, too. SP4 Michael Bowers just got back to the States from Germany ... Welcome to the Presidio ...
+
+p: **Down at the 504th, SFC York came in** from Germany and will be working at the Bn. communications shop. MSgt. Calvino got in from Korea and will be working with the PMO operations sergeant. SFC Russell moved from the 504th to work at fiscal security (I do wonder what they do there ... it’s an interesting name. First time I heard it). I do wish I knew your first names, peoples.. .but with things as paperworked as they are ...
+
+p: **Two MP’s, from the 402nd** apprehended a stolen vehicle (I love that!!! I’ll bet it was really a car! This was just a routine licenses check, but Sgt. Craig Mattews and SP4 Ronald Doman did a job on the thief. (Yes, they did. They caught him!!) After turning the robber over to San Francisco police, our guys were informed this character was wanted on two other counts, too!!! YEH, guys. You done good!!!
+
+
+talk: #ray help main:footer
+
+::begin:hidden
+#color = {{profile.color}}
+#highlight = {{profile.highlight}}
+#shadow = {{profile.shadow}}
+#bgcolor = {{profile.bgcolor}}
+#bg = {{profile.background}}
+::end:hidden
+::END:MAIN

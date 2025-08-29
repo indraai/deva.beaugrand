@@ -1,0 +1,54 @@
+::BEGIN:MAIN
+::begin:buttons
+button[Main]: #ray help
+button[Eve]: #ray help eve/main
+::end:buttons
+
+talk: #ray help eve/main:header
+
+page: 2
+paper: STAR PRESIDIAN
+date: Friday - May 21, 1976
+link: https://archive.org/details/StarPresidianVolume19/page/n85/mode/2up
+
+p: More strange happenings on post, from the raving reporter.
+
+p: Helpful hint: if you need to go to the Commissary, try to wait until Wednesday or Thursday. Saturday in that place is unreal! You can wait in line longer than it takes to shop.
+
+p: First Sergeant McDowell of the 170th is having a permanent change of station to Germany! Enjoy the brewr
+
+p: The 170th is losing SFC Joe Russell. But, don’t get excited troops! He’s only moving to the 163rd as First Sergeant. Congrats on the move, sarge!
+
+p: Although the 227th Medical Detachment wasn’t too excited about the public notice of their IG, they did come through satisfactorily. Glad to know you are keeping a clean house, men.
+
+p: The 16th BPO has done some bragging on their high level of morale. We will have to look into this. . .later. Anyone for an inter-unit morale contest?
+
+p: A big hi to Privates Roger Rogers (he didn’t have too difficult a time with his name, huh?), Bruce Anderson, James Sanders, Ricky Labitoria, Robert Both, Michael Rau and SP/4 Jesus Meno who have joined D Co. 864th. Maybe you can get them on your ball team, fellows.
+
+p: The 2nd Platoon of D Co. 864th is out this week doing their field training. UGH! But, then, war is heck, right guys?
+
+p: A film crew recently left LAMC where they were filming the 91C students (91C is the clinical specialist school.) The crew was from the Home Town News Center and plans to release the film to the public media as an Army blurb.. .“This is today’s Army” type thing. Ever thought you’d join the Army and become a movie star, 91 C’s?
+
+p: The 504th welcomes a new platoon leader. Lt. Paul Masterson will be working with the 170th MP. This is his first officer assignment. Good luck, lieutenant.
+
+p: Major Joseph Koonin will be leaving the 504th after three years. He’s going to 6th Army Headquarters, here. Glad you’re still around, sir. Hope you are.
+
+p: Last Saturday marked the 35th birthday of the 504th. The MPs celebrated with an Organizational Day held at the Ft. Scott Parade Field. Heard it was a lot of fun.
+
+If you have a handicapped child, Army Community Service has a list of summer camps available in San Francisco which are for children with various types of handicaps and will do their best to find a camp that meets the special needs of your child. For more info call the ACS Center, Bldg. 913, at 5057/5155.
+
+The Main Post Library will be open on Sundays from 12 noon to 7p.m. Monday, Tuesday CLOSED; Wednesday—12 noon to 9p.m. and Thursday through Saturday—12 noon until 7p.m.
+
+p: Till next week, take and take and keep on whatever.
+
+talk: #ray help main:footer
+
+::begin:hidden
+#color = {{profile.color}}
+#highlight = {{profile.highlight}}
+#shadow = {{profile.shadow}}
+#bgcolor = {{profile.bgcolor}}
+#bg = {{profile.background}}
+::end:hidden
+::END:MAIN
+

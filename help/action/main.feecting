@@ -1,0 +1,55 @@
+::BEGIN:MAIN
+::begin:buttons
+button[Main]: #ray help
+::end:buttons
+
+# ACTION LINE
+link[Star Presidian Archive]: https://archive.org/details/StarPresidianVolume17/page/n1/mode/2up
+
+::begin:center
+img: /devas/ray/img/action/need-an-answer.png
+::end:center
+
+The **Commanders Action Line** is available to help with problems or answer questions. Anyone (troops, DA civilians, families) with a Presidio-related problem that **CANNOT BE SOLVED THROUGH THE CHAIN OF COMMAND** can write in and get ac¬ tion. Send your questions, gripes, or suggestions on a card or letter addressed to:
+
+Commander's Action Line Information Office Presidio of San Francisco, CA 94129
+
+p: Include your name, so that you can be contacted by the Office that has the job of helping you. Anonymous complaints cannot be answered, as the intent is to solve real problems of real people. 
+
+::begin:center
+img: /devas/ray/img/action/action-line-automated.png
+::end:center
+
+::begin:center
+img: /devas/ray/img/action/action-line-open.png
+::end:center
+
+
+
+## Star Presldian January 18, 1974
+link: https://archive.org/details/StarPresidianVolume17/page/n9/mode/2up
+
+note: For those of you who called Action Line during the period from last Friday to Monday, if you don’t soon receive a response to your query, please call again. We Discovered A Mechanical Failure In The New Device at our end of the line which may have disrupted your phone call. Please call again, the difficulty has been repaired.
+
+### Question
+p: It is suggested that a traffic light or f our-way stop sign be installed at the intersection of Lincoln and Presidio Boulevards and Letterman Drive (about one-half block west of MP station). This intersection is almost impossible to cross. If this is not feasible, Military Police could be stationed there during peak traffic hours for a traffic controller. It is feared that one day someone will be killed or badly injured at this dangerous intersection.
+
+p: This request was made to the Post Safety Office several months ago but no reply has been forthcoming.
+
+—Roy E. Jorgenson (CW4, USA, Ret)
+
+### Answer 
+
+p: The Provost Marshal’s Office has submitted a request form to have a traffic light installed at the intersection of Lincoln and Presidio Boulevards at Letterman Drive. It is being estimated and will be accomplished if approved by the Presidio New Work Board, and when funds become available.
+
+talk: #ray help main:footer
+
+::begin:hidden
+#color = {{profile.color}}
+#highlight = {{profile.highlight}}
+#shadow = {{profile.shadow}}
+#bgcolor = {{profile.bgcolor}}
+#bg = {{profile.background}}
+::end:hidden
+
+::END:MAIN

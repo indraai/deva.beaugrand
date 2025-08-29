@@ -1,0 +1,59 @@
+::BEGIN:MAIN
+::begin:buttons
+button[Main]: #ray help
+button[Eve]: #ray help eve/main
+::end:buttons
+
+talk: #ray help eve/main:header
+
+page: 2
+paper: STAR PRESIDIAN
+date: Friday - August 6, 1976
+link: https://archive.org/details/StarPresidianVolume19/page/n135/mode/2up
+
+p: **The way things have been going lately,** I wonder how anyone retains anything closely resembling sanity ... busy, busy, busy...
+
+p: **Last week I told you about those old buildings** you could buy and tear down... after wondering why anyone would want to do this, I received a telephone call. If you buy the building, you do have to tear it down, but you can take what you want, and you don’t have to carry off the debris . . . leave that, and the guys here will get it... I hear it’s a good way to make a little extra money . . .
+
+p: **LAMC welcomes a new Command Sergeant Major.** CSM Willie K. Williams (I like his name!) came to LAMC from Alaska and will now be enjoying the pretty days here . .. nice to have you, sir.
+
+p: **Also new to the LAMC team** is Major Wallace J. Brown, with the Medical Services Command. Major Brown is the new adjutant, coming here from Ft. Baker, where he served as the WRRC operations officer at AFEES.
+
+p: **The 504th MP’s have a lot going on** with the supported units ... the 170th is off to Ft. Lewis for a month of training. And the 402nd is back at white hat duty-law support, and one platoon is still at Camp Parks, watching the reservists.
+
+p: **The 504th wanted to welcome** SP6 Thomas Beyler as their new legal clerk. Just arriving from Germany, SP6 Beyler, we hope you like it here . . .
+
+p: **D Co., 864th is off to the field** next week for tactical training at Ft. Ord and Hunter Liggett. Accompanying them will be the 51 st Engineers and the 227th Med Detachment. Have fun troops. It’ll be good training . . . And SP4 Thomas Crooks, from Germany, got here just in time to join in . ..
+
+p: **Leaving the 864th** are SSgt. Donald Green, PCS to Hawaii; SP4 Leonard Park, ETS; SP4 Mark Palmer, ETS; SP4 Steven Erbeck, ETS; PFC Victor Hazelwood, to Germany; and Pvt. Mark Dickson, ETS. When they go, they go in bunches.. .
+
+p: **I found out, no big secret**, how the 16th BPO did on their IG. Are you ready for this????? They got 15 commendables out of 25. . .1 hear this is really good. . .congrats, guys, you deserve it!!!
+
+p: **Pvt. Kimberly Jones, straight out of AIT** at Ft. Jackson, joined the 16th BPO. And Sgt. Bob Atkins, left TDY as a body escort to New York. Nice place to visit, but not under those circumstances. . .
+
+p: **The new first sergeant has arrived at Headquarters Co. USAG. All I’ve been able to find out today is his name, John Golden (sounds pretty, huh?) and he just came from the Sergeant Major academy, wherever that is. . .like to hear more about you . . .
+
+p: **LAMC is having a blood drive. . .** if you’re ready to give it up, blood that is, go down to the Red Cross lounge, room 107, on the first floor of the main hospital right across from Mitchell Dining Hall (good directions, huh?) on August 31 from 10a.m. until 4:30p.m. and on September 1 from 7:30a.m. till noon. Help out those less fortunate than yourself...
+
+p: **The RAP Center just put a new shingle out.** They are now being referred to as the Presidio Alcohol and Drug Information Center. Sounds pretty heavy, doesn’t it? Almost enough to make you nervous.. .
+
+p: The 4th Annual Presidio Women’s Day will be August 26 from 9a.m. till 3:30p.m. in Bldg. 135, Rec. Services. There will be speakers, films, workshops, and exhibits. The program is presented by the Federal Women’s Program Committee and dedicated to the civilian and military women of the Presidio. For more information, call 2035.
+
+p: **CARTOONS!!! Yeah! A Super Duper Kartune Karnival,** featuring 13 color cartoons, with the best of the Pink Panther and friends (YEAH) will be held tomorrow at the Presidio Theater beginning at 2p.m. Admission will be $1.00 for the big kids, and $0.50 for the littler ones. Enjoy ...
+
+p: **Another week over TGIF. . .** take ’n take ’n keep on whatevering ... I will.
+
+talk: #ray help main:footer
+
+::begin:hidden
+#color = {{profile.color}}
+#highlight = {{profile.highlight}}
+#shadow = {{profile.shadow}}
+#bgcolor = {{profile.bgcolor}}
+#bg = {{profile.background}}
+::end:hidden
+::END:MAIN
+
+
+Ārjīkīya
+America

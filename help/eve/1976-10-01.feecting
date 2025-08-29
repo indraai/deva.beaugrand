@@ -1,0 +1,33 @@
+::BEGIN:MAIN
+::begin:buttons
+button[Main]: #ray help
+button[Eve]: #ray help eve/main
+::end:buttons
+
+talk: #ray help eve/main:header
+
+p: **It was kinda nice** having rain instead of fog this week! Reminds me of home... And I can feel a cool, cleanness that must be fall!!! In fact, I’ve taken up walking so I won’t miss seeing the leaves change colors. And if you’re looking, you’ll know, they’re doing it already!!!
+
+p: **Capt. Reass and the 1st Sgt.** from the 402nd came back after receiving the Eagle Trophy... congratulations, guys, ya’II REALLY done good!!! (That pat was for the whole 402nd, not just the guys who picked up the trophy!!!) SP4 Paula Johnson joined the 504th HHD from Hawaii ... Sgt. Judy Richey moved from Garrison to the 163rd MP Co. And, this one really surprised me. Lt. John Swegart is now at the 402nd, or should I say WITH the 402nd ... hope you like it, sir. PFC Thomas Tyson is off to Germany from the 402nd and SP4 Mark Hood and SP4 Louis Lasko ETS’ed. And SP4 Richard Allen joined HHD from Germany. Enjoy the Presidio ... it’s fun ...
+
+p: **Members of the 16th BPO** will no longer be 71 Foxes. They’re being converted to 71 Limas. Must be neat. .. one day your MOS is one thing, then it just changes over with no extra training, or anything!!! SP4 Myrna Osuna just joined the BPO from Germany ... hope you like it here Myrna. The BPO has some nice folks ... course, so does the rest of the Presidio!!! And, for some excitement, watch the BPO do PT every day at 3:45 ... they’re getting in shape for the PT tests. First Sgt. says the troops love it!!! And the BPO got a 98 percent rating for their RREO class morale ... pretty good, folks. And congrats today to SP4 Michelle Haney, SP4 Flavio Maestas, and SP4 Donald Willhide .. . who are no longer SP4s. They are now SP5s ... see me turn green with envy ...
+
+p: **I’d really like to thank** the two MPs for the 10-10-escort last week... REALLY. I know that was a terrible place I was walking, but when you don’t have a car. .. Thanks again guys ... SP4 Rudolph Gumatoatao (after that terrific football play last week, for shame!!) and SP4 Daniel Marris have both ETS’ed from the 170th . . . back to civvies. And SFC Cirilio Gonzales has moved from the 163rd to the 170th to be a platoon sergeant.
+
+p: **Last week I made the mistake** of saying Capt. John Dowell had replaced Capt. John Gates as CO of the 864th Engrs. Wrong. Capt. John Dowell WILL replace Capt. Gates, but he hasn’t done it yet and it’ll be a couple more months before he does. For all you peoples getting upset, confused or disoriented, I’m sorry.
+
+p: **Hear there’s a lot of people** going on leave at the 864th since the IG is over. Enjoy your vacations ... they’re probably well deserved. And Pvt. John Christ¬ ianson joined the engineers out of AIT at Ft. Leonard Wood. SP4 Raymond Dehaut left yesterday for Ger¬ many ... or maybe it’s today. Soon, anyway. SP4 Timothy Morott just reenlisted so now he’s going away to another service school... hear it has some¬ thing to do with telephone poles . . . repairman, maybe.
+
+p: **Smile. It’s the light of the heart.** And learn to laugh at yourself, with yourself and with others . .. A good sense of humor is one of the most beautiful things in the world... Take'n take'n keep on whatevering. I will.
+
+
+talk: #ray help main:footer
+
+::begin:hidden
+#color = {{profile.color}}
+#highlight = {{profile.highlight}}
+#shadow = {{profile.shadow}}
+#bgcolor = {{profile.bgcolor}}
+#bg = {{profile.background}}
+::end:hidden
+::END:MAIN

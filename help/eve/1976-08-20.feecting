@@ -1,0 +1,51 @@
+::BEGIN:MAIN
+::begin:buttons
+button[Main]: #ray help
+button[Eve]: #ray help eve/main
+::end:buttons
+
+talk: #ray help eve/main:header
+
+page: 4
+paper: STAR PRESIDIAN
+date: Friday - August 20,1976
+link: https://archive.org/details/StarPresidianVolume19/page/n145/mode/2up
+
+p: **It rained! I mean a real,** though not very long, rain. Not mist, or fog, or smog, or goodness knows what else up there. But real raindrops! The first time in almost four months, that I know anything about... rather enjoyed it, although I do wish it hadn’t been during duty hours. It would’ve been a lot nicer late at night, curled up under a tin roof. Pitter-patter...
+
+p: **The MP’s on post seem to have** had a quiet week ... pleasant change, I’m sure. The 170th is still way up north, Ft. Lewis, and the 402nd is still pulling white hat duty, so keep an eye open. I hear a couple of people were either arrested, or escorted off the post, but that’s still in the rumor stage ... maybe more later.
+
+p: **The feller I told you about** last week who was injured with the steel pot is back on duty. Heard he was all right, doing well, except for taking a lot of ribbing. But, when somethings funny, even though it hurts, people laugh ... even me!
+
+p: **And, for all you enthusiastic patrons** of the NCO/EM club, don’t forget it’s closing the 26th of August. After losing a long hard fight, they’re pulling in their shingle, and stealing quietly into the night. The pool table was broken anyway ...
+
+p: **HHD USAG** got their orderly room painted. FINALLY. Really improved the looks of the place, but not the smell .. . paint smells BAD . . .
+
+p: **There’s an odd request** in the WB of Aug. 13. If any young mothers read it, please help out. There’s a premature baby in intensive care in the LAMC nursery who desperately needs fresh breast milk to survive. If you can help, please do. The numberto call for more information or to help is 561-2830/4991.
+
+p: **If ya need a ride to the Women’s Day Program,** Thursday, Aug. 26, 9 a.m. to 3:30 p.m., the regular shuttle bus will be running for the Ft. Baker and Ft. Scott people. Call 3448/5037 for more info.
+
+p: **Anybody scared of yellow jackets???** I heard, strictly rumor, that the 227th is waging a small war against a nest of the dastardly beasts. In fact, I hear one member of the unit was stung twice, and has had a morbid fear of leaving his office until they are destroyed. Gasoline didn’t do the job ... wonder what’ll be next? Nitric acid?? Nitro glycerine??? A fire extinguisher????
+
+p: **New peoples at the 864th are:** (drum roll, please, and total silence) Pvt. Nolan Woodward, straight out of AIT, Ft. Leonard Wood (or is that Lost-in-thewoods?) SP4 Pascasio Rivera, and PFC Mark Fujimoto, here after his tour in Germany. Do you by any chance know where Schwetzingen is? Carol doesn’t know how to get there.
+
+p: **The mail clerk and the unit clerk** for D. Co., 864th have taken on a new duty. HAIRCUTS. I almost fell out laughing when I heard this one. There was a special inspection to check the soldiers hair. Those who had been told earlier to get it cut and hadn’t, had to report to the orderly room. Oddly enough, the cuts turned out pretty well. They even had a lieutenant and the 1st Sgt. volunteer for haircuts. UNREAL
+
+p: **SP4 Wayne Sullivan is ETSing.** Heard he’s going to the U. of Tennessee to finish college. Good luck Wayne. It’s worth it, regardless of what you may hear contrarywise. And PFC Victor Hazelwood is off the Germany. It's almost nice that so many people from the Presidio are being transferred there. Maybe you’ll run into a friend ...
+
+p: **The 16th BPO is still getting ready** for their practice movement ... but I hear they do have some time for fun and games. You guys better behave ... (!!!) the gentler sex may not be as gentle as they look ... And SP5 Jewell Riley has ETSed. Made a dash back to civilian life ... With his leaving, we welcome SP5 Carol Slaughter, new here from Germany. Looks like we’re keeping a pretty good swap going back and forth ...
+
+p: **Lost your specks? There’s a pair** over at the Ft. Scott Gym. If they’re yours, stop in and pick them up at the Main Post Gym or call 4120/5032.
+
+p: **Another week ... but, at least it’s been** interesting. Heard a lot of funnies ... like, ‘green is beautiful.’ Take ’n take ’n keep on whatevering. I will.
+
+talk: #ray help main:footer
+
+::begin:hidden
+#color = {{profile.color}}
+#highlight = {{profile.highlight}}
+#shadow = {{profile.shadow}}
+#bgcolor = {{profile.bgcolor}}
+#bg = {{profile.background}}
+::end:hidden
+::END:MAIN

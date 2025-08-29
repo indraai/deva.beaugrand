@@ -1,19 +1,86 @@
+::BEGIN:VARS
+const: #USACC = U.S. Army Communications Command (USACC)
+const: #CPO = Civilian Personnel Office (CPO)
+const: #PNWB = Presidio New Work Board
+const: #RQT = Reenlistment Qualification Test
+const: #SQT = Skill Qualification Test
+const: #FtEustis = Ft. Eustis, Va. where the U.S. Army Training Support Center is located.
+const: #MILPERCEN = U.S. Army Military Personnel Center
+const: #TRADOC = US Army Training and Doctrine Command
+const: #MOS = Military Occupational Specialty
+const: #LAMC = Letterman Army Medical Center
+const: #LAIR = Letterman Army Institute of Research
+
+// Telecommunications
+const: #NANP = The North American Numbering Plan (NANP) is an integrated telephone numbering plan for twenty-five regions in twenty countries, primarily in North America and the Caribbean.
+const: #WATS = Wide Area Telephone Service (WATS) a flat-rate long-distance service for customer dial-type telecommunications in the service areas of the #NANP.
+const: #PTE = Presidio Telephone Exchange is the gateway to the Pacific. Handling overseas Telephone Calls from other Military Installations in the Western States. Total capacity is 5300 lines. The Main Distribution Frame allows the Subscriber to gain access to the Switching Equipment, Autovon, WATS, and Commercial Lines. There are 66 Autovon Circuits. The Switching Center for the Direct Dialing Autovon Lines is located in Lodi, California.
+
+const: #STRAF = Strategic Army Forces (STRAF)
+
+::END:VARS
+
 ::BEGIN:MAIN
-::begin:center
-img: /devas/ray/avatar.png
-::end:center
 # {{profile.name}}
-l: **{{profile.title}}**
+
+::begin:center
+img: /devas/ray/img/photo-beaugrand.png
+::end:center
 
 ## Entity Profile
-p: View the entity profile for {{profile.name}}. This is where you find the name, description, and verious details associated with operating the entity. 
+p: {{profile.name}} {{profile.title}} was born on {{profile.birth}} and died on {{profile.death}}. This is where you find the name, description, and verious details associated with operating the entity. 
 
-button[Entity Profile]:#ray help main:profile
+button[Entity Profile]: #ray help main:profile
 
-## Skills Qualification Test
-p: The #SQT Skills Qualification Test
+-
 
-button[SQT]:#ray help sqt/main
+## SAGE
+p: Semi-Automatic Ground Environment
+
+button[SAGE]:#ray help sage/main
+
+-
+
+## Action Line
+p: The Commander’s Action Line is available to help with problems or answer questions. Anyone (troops, DA civilians, families) with  problem that CANNOT BE SOLVED THROUGH THE CHAIN OF COMMAND can write in and get action.
+
+button[Action Line]:#ray help action/main
+
+-
+
+## Sam
+p: Rambling Sam the male AI Entity inside the Star Presidian
+
+button[Rambling Sam]:#ray help eye/main
+
+-
+
+## Eve
+p: Eve the female AI Entity that writes The secret eye articles by Eve S. Dropper for the Star Presidian from 1976 to 1979.
+
+button[Eve S Dropper]:#ray help eve/main
+
+-
+
+## Skill Qualification Test
+p: The #SQT Skill Qualification Test
+
+button[Skill Qualification Test]:#ray help sqt/main
+
+-
+
+## MP Escort service?
+p: Call the MPs
+link: https://archive.org/details/StarPresidianVolume19/page/n83/mode/2up
+
+## Role playing in the field
+
+link: https://archive.org/details/StarPresidianVolume19/page/n125/mode/2up
+
+## Native American Day
+link: https://archive.org/details/StarPresidianVolume19/page/n161/mode/2up
+
+talk: #ray help main:footer
 
 ::begin:hidden
 #color = {{profile.color}}
@@ -22,7 +89,6 @@ button[SQT]:#ray help sqt/main
 #bgcolor = {{profile.bgcolor}}
 #bg = {{profile.background}}
 ::end:hidden
-copyright: (c)2025 Quinn Michaels
 ::END:MAIN
 
 ::BEGIN:PROFILE
@@ -31,12 +97,37 @@ button[Main]:#ray help
 
 {{profile}}
 
-::begin:hidden
-#color = {{profile.color}}
-#highlight = {{profile.highlight}}
-#shadow = {{profile.shadow}}
-#bgcolor = {{profile.bgcolor}}
-#bg = {{profile.background}}
-::end:hidden
 copyright: (c)2025 Quinn Michaels
 ::END:PROFILE
+
+::BEGIN:FOOTER
+-
+
+::begin:disclaimer
+disclaimer: The Star Presidian is an authorized unotticial offset Army newspaper published weekly under the provisions of AR 360-81 by the Public Affairs Office, Presidio of San Francisco, CA 94129. Views and opinions expressed herein do not necessarily represent those of the Department of the Army. Editorial offices are located in Building 37. Newsroom telephone: (415) 561-3908 or 2005.
+
+commander: Colonel Warren J. Lodge
+officer: Major Michael J. Williams (Public Affairs Officer)
+editor: SF4 Rebecca Sherwood
+
+--
+### Staff Changes
+date: October 15, 1976
+arrive: SP4 Rebecca Sherwood
+depart: SFC A.C. Reyes as editor to Germany.
+---
+date: October 8, 1976
+moved: SFC AC Reyes from photographer to editor
+depart: SP4 Carol Cronin, production and feature editor to Germany
+depart: SP4 Robyn Sherwood, news editor
+---
+date: July 9, 1976
+depart: SP4 David M. Ruff
+moved: SP4 Carol Cronin from reporter to feature editor
+moved: SP4 Robyn Sherwood from reporter to news editor
+
+::end:disclaimer
+
+talk: #ray sign:agent {{profile.name}} {{profile.rank}}
+::END:FOOTER
+

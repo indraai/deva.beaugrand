@@ -7,11 +7,13 @@ buried: ARLINGTON CEMETERY, 748 SCHUYLER AVENUE, KEARNY, NJ 07032
 ## October 2, 1922
 Grandfather BEAUGRAND, RAYMOND Sr born 2 October 1922, received Social Security number ###-##-3621 indicating New Jersey)
 
+138143621
 **ssn:** ###-##-3621
 
 ## August 11, 1943
 RAYMOND J BEAUGRAND II,  (Social Security number ###-##-0253) was born 11 August 1943
 
+146340253
 **ssn:** ###-##-0253
 
 ## July 1, 1965
@@ -156,7 +158,7 @@ The only one that gave me any trouble was the comptroller who wanted to read it 
 ## February 11, 1977
 **Mini, but mighty**
 
-quote: The Blue Royals’ coaches, John Martin and Ray Beaugrand, say it will be the three 13-year-olds’ de¬ fensive action that's going to carry them through the upcoming playoffs. “We have the height in Tim Dillon, Mike Wheeler, and Stacey Spain, and the storm in Reyes, Golden and Payne,” said Beaugrand.
+quote: The Blue Royals’ coaches, John Martin and Ray Beaugrand, say it will be the three 13-year-olds’ defensive action that's going to carry them through the upcoming playoffs. “We have the height in Tim Dillon, Mike Wheeler, and Stacey Spain, and the storm in Reyes, Golden and Payne,” said Beaugrand.
 coaches: John Martin and Ray Beaugrand
 team: Blue Royals DYA
 team: Peter Reyes #25, Mitch Golden #22, and Greg Payne #11, and Tim Dillon #5, Mike Wheeler #93, Stacey Spain #39 all assault, chase, badger, opponents so well they are able to take command of any situation as soon as someone other than their team members have the ball.

@@ -1,0 +1,49 @@
+::BEGIN:MAIN
+::begin:buttons
+button[Main]: #ray help
+button[Eve]: #ray help eve/main
+::end:buttons
+
+talk: #ray help eve/main:header
+
+page: 2
+paper: STAR PRESIDIAN
+date: Friday - August 13,1976
+link: https://archive.org/details/StarPresidianVolume19/page/n139/mode/2up
+
+p: Anybody superstitious? Today is Friday. The 13th ... But, it's also payday!!! What could really be so bad about that??? And, it’s really been a great week ... for me, anyway. Hope it wasn’t too bad for any of you peoples.
+
+p: Now, I’m gonna get down to some heavy yelling ... (another word would probably be more appropriate, but one can’t print those words, can one?) All you great animal lovers ... did you know three children were bitten by dogs this last weekend? Have you ever been bitten? I have, and believe me, it ain’t no fun. Especially if they can’t find the dog ... I was lucky. I didn’t have to go through the rabies series. But, if you do have a dog, and ya oughta know I love animals, please, don’t just let it wander around. Your pet could get hurt, or hurt someone else ... have a heart. Don’t put yourself, or your pet, in a position where you’re responsible ... even if “it wasn’t your fault.” Somebody has to pay ... sooner or later.
+
+p: Long years ago, a really nice lady (my mom), volunteered to be the Scout Leader for my troop. And, I must admit, those trips we took and the projects we worked on have been some of the beautiful things we remember and laugh about together. Give your daughter, or someone else’s, a chance to learn the things Scouting can teach. Girl Scout registration will be August 20 at 7:30p.m. at the Girl Scout House, 566 Ruger Street. Girls in second grade through high school can join. And, for the littler tykes, a Pixie troop for first graders will be formed, if enough kids wanna join.
+
+p: And moms, there are plenty of openings for leaders and assistant leaders. If you can get into it, call Ginger Daniels, 3807. The time and effort you put into these girls will be repaid hundreds of times ... and more later, when you remember the fun ...
+
+p: The 170th is up at Ft. Lewis ...still training ... Major Carolyn Cain is heading the 504th MPs HHD while Colonel John Valient is on leave ... And the 402nd is pulling white hat duty this week ... so, watch out for radar. I KNOW, for a fact, that tickets ARE being given out...
+ 
+p: The 227th Med Detachment qualified with the M-16s this week, down at Hunter-Liggett. Well, stranger things have happened ...
+
+p: D Co. 864th is in the Hunter-Liggett, Fort Ord area this week. They're out qualifying with the M-16, the 45 and the M-60. I’d like to learn to fire a 45 ... I heard there was an “accident” on the way down to Liggett. One of the drivers was hit on the head with a steel pot-helmet... accidently. It vibrated off the shelf, hit him, and knocked him out. Heard he had a concussion ... Hope it’s better soon ...
+
+p: The 16th BPO is unwinding after its hectic IG last week. And next week they start a simulated movement... the Army’s work is never done, is it?
+
+p: Lt. Col. Norman Harms, DPCA, moved to North Forts as the installation CO. Col. Richard Ament is taking over for Col. Harmes, and just came from Japan ... Hi!
+
+p: Lt. Richard Schultz, uh, excuse me CAPTAIN. Congrats on your promo ... (I must admit I’m tempted to ask if you watch Hogan’s Heros. I know nothing ...)
+
+p: Lt. Col. Allen Bresette left last week for Korea. Sorry nobody let me know he was leaving before he left. It’s kinda hard to say ‘bye after somebody’s already gone ... BUT, I can welcome Major Samuel Pearson to his new position.
+
+p: Pvt. Marcellous Harrison came in to fill out his hometown news release form. But, we found out his hometown is Oakland ... I’d like to welcome Marcellous back to his stomping grounds. Seems he just came from AIT at Ft. Jackson and will be working in personnel...
+
+p: Keep your dogs in hand ... have a beautiful weekend, and extend the happy feeling into the work you do next week. It’ll make you feel like you’re really a great person ... Take ’n take ’n keep on whatevering. I will.
+
+talk: #ray help main:footer
+
+::begin:hidden
+#color = {{profile.color}}
+#highlight = {{profile.highlight}}
+#shadow = {{profile.shadow}}
+#bgcolor = {{profile.bgcolor}}
+#bg = {{profile.background}}
+::end:hidden
+::END:MAIN
